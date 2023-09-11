@@ -22,11 +22,11 @@ class ActionProb():
     '''
 
     def __init__(self):
-        # check if a file with action weights exists
-        # if not read the model (pytensors)
         self.representation_loaded_from = None
         self.bertopic_model_path = None
         self.representation_dict_pickle_path = None
+        self.ctfidf_selection = None
+        self.action_topic_probability_matrix_path = None
 
     @staticmethod
     def softmax2d(anarray):
@@ -74,14 +74,15 @@ class ActionProb():
         # assuming topic idx is contiguous between 0 to ntopics
         self.topic_list = list(range(self.ntopics))
 
-    def read_rep_action_mapping_csv(self, action_rep_action_mapping_csv_path):
+    def read_rep_action_mapping_csv(self, rep_action_mapping_csv_path):
+        self.rep_action_mapping_csv_path = rep_action_mapping_csv_path
         self.action_representation_map_df = pd.read_csv(self.rep_action_mapping_csv_path)
         self.action_list = self.action_representation_map_df['ActionID'].unique()
         self.nactions = len(self.action_list)
 
         # 3d array containing the mapping between between actions and representations for every topic
         # shape: nactions x ntopics x nreps
-        self.ctfidf_selection = np.ones([self.nactions, self.ntopics, self.nreps])
+        self.ctfidf_selection = np.zeros([self.nactions, self.ntopics, self.nreps])
 
         for i in range(len(self.action_representation_map_df)):
                 adict = self.action_representation_map_df.iloc[i].to_dict()
@@ -93,14 +94,14 @@ class ActionProb():
     def read_additional_topic_actions_csv(self):
         pass
 
-    def read_action_prob_file(self):
-        pass
+    def read_action_prob_file(self, action_topic_probabity_matrix_path):
+        self.action_topic_probability_matrix_path = action_topic_probabity_matrix_path
+        self.action_probability_topic_wise = np.load(self.action_topic_probability_matrix_path)
 
-    def save_action_prob_file(self):
-        pass
-
-    def remove_action_prob_file(self):
-        pass
+    def save_action_prob_file(self, action_topic_probabity_matrix_path):
+        self.action_topic_probability_matrix_path = action_topic_probabity_matrix_path
+        np.save(self.action_topic_probability_matrix_path, self.action_probability_topic_wise)
+        print(f'Saved action probabilities in the path {self.action_topic_probability_matrix_path}')
 
     def __calc(self):
         # collect the ctfidf values of all the representation strings for each topic into
@@ -127,24 +128,20 @@ class ActionProb():
         # shape: nactions x ntopics
         self.action_probability_topic_wise = self.softmax2d(self.action_topic_wise_ctfidf_sum)
 
-    def calc_action_probs(self, bertopic_model_path, rep_action_mapping_csv_path, additional_topic_actions_csv_path=None):
-        self.rep_action_mapping_csv_path = rep_action_mapping_csv_path
-        self.additional_topic_actions_csv_path = additional_topic_actions_csv_path
+    def calc_action_probs(self):
+        # 1. Check if representation dict exists
+        if (self.bertopic_model_path is None
+            and self.representation_dict_pickle_path is None):
+            print(f'[Error] representation dictionary does not exist. Load a bertopic model or representation_dict before invoking calc_action_probs method')
+            return None
 
-        # 1. Read the representation - action mapping file (YAML)
-        self.read_rep_action_mapping_csv()
+        # 2. Check if rep action mapping is present
+        if (self.ctfidf_selection is None):
+            print(f'[Error] representation-action mapping not present.')
+            return None
 
-        # 1 (optional). Read additional actions csv
+        # 3 (optional). Read additional actions csv
         self.read_additional_topic_actions_csv()
-
-        # 2. Load the bertopic model
-        self.read_bertopic_model()
 
         # 4. Calculate action probabilities for every topic
         self.__calc()
-
-        # return action probs
-
-# Read the ctfidf weights from the model
-# 
-
