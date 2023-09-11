@@ -8,7 +8,6 @@
 #####################################################################
 
 import path
-import yaml
 import numpy as np
 import pandas as pd
 from bertopic import BERTopic
@@ -37,9 +36,9 @@ class ActionProb():
         normalization_array = np.sum(exp_array, axis=0)
         return exp_array / normalization_array[:]
 
-    def read_bertopic_model(self, bertopic_model_path):
+    def read_bertopic_model(self):
         # Load a bertopic model
-        self.topic_model = BERTopic.load(bertopic_model_path)
+        self.topic_model = BERTopic.load(self.bertopic_model_path)
 
         # get the dictionary of representation (value) for each topic (key)
         # representation is a list of tuples of size nreps
@@ -56,16 +55,24 @@ class ActionProb():
         self.topic_list = list(range(self.ntopics))
 
 
-    def read_rep_action_mapping_yaml(self):
-    
     def read_rep_action_mapping_csv(self, action_rep_action_mapping_csv_path):
-        self.action_rep_action_mapping_csv_path = action_rep_action_mapping_csv_path
-        self.action_representation_map_df = pd.read_csv(self.action_rep_action_mapping_csv_path)
-        self.nactions = 0
+        self.action_representation_map_df = pd.read_csv(self.rep_action_mapping_csv_path)
+        self.action_list = self.action_representation_map_df['ActionID'].unique()
+        self.nactions = len(self.action_list)
 
         # 3d array containing the mapping between between actions and representations for every topic
         # shape: nactions x ntopics x nreps
         self.ctfidf_selection = np.ones([self.nactions, self.ntopics, self.nreps])
+
+        for i in range(len(self.action_representation_map_df)):
+                adict = self.action_representation_map_df.iloc[i].to_dict()
+                action_id = adict['ActionID']
+                topic_number = adict['TopicNumber']
+                unmask_indices = eval(adict['RepresentationList'])
+                self.ctfidf_selection[action_id, topic_number, unmask_indices] = 1
+
+    def read_additional_topic_actions_csv(self):
+        pass
 
     def read_action_prob_file(self):
         pass
@@ -101,22 +108,24 @@ class ActionProb():
         # shape: nactions x ntopics
         self.action_probability_topic_wise = self.softmax2d(self.action_topic_wise_ctfidf_sum)
 
-    def calc_action_probs(self, bertopic_model_path, rep_action_mapping_yaml_path, overwrite=False):
-        # If overwrite is False and the action_prob_file exists --> read and skip the calculation
-        if (not overwrite):
-            # try to read
-            # except --> pass
-        else:
-            # try to remove the files
-        # If overwrite is True and the action_prob_file exists --> remove the file
-        # else calculate the action probability
-            # 1. Load the bertopic model
-            # 2. Check if the ctfidf scores are recorded, if not throw an error and quit
-            # 3. Read the representation - action mapping file (YAML)
-            # 4. Calculate action probabilities for every topic
+    def calc_action_probs(self, bertopic_model_path, rep_action_mapping_csv_path, additional_topic_actions_csv_path=None):
+        self.bertopic_model_path = bertopic_model_path
+        self.rep_action_mapping_csv_path = rep_action_mapping_csv_path
+        self.additional_topic_actions_csv_path = additional_topic_actions_csv_path
+
+        # 1. Read the representation - action mapping file (YAML)
+        self.read_rep_action_mapping_csv()
+
+        # 1 (optional). Read additional actions csv
+        self.read_additional_topic_actions_csv()
+
+        # 2. Load the bertopic model
+        self.read_bertopic_model()
+
+        # 4. Calculate action probabilities for every topic
+        self.__calc()
+
         # return action probs
-
-
 
 # Read the ctfidf weights from the model
 # 
