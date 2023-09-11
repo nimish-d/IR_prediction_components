@@ -7,7 +7,8 @@
 # email: care@ihx.in
 #####################################################################
 
-import path
+import os
+import pickle
 import numpy as np
 import pandas as pd
 from bertopic import BERTopic
@@ -20,10 +21,12 @@ class ActionProb():
     Author: Nimish Dwarkanath
     '''
 
-    def __init__(self, action_prob_path):
-        self.action_prob_path = action_prob_path
+    def __init__(self):
         # check if a file with action weights exists
         # if not read the model (pytensors)
+        self.representation_loaded_from = None
+        self.bertopic_model_path = None
+        self.representation_dict_pickle_path = None
 
     @staticmethod
     def softmax2d(anarray):
@@ -36,7 +39,9 @@ class ActionProb():
         normalization_array = np.sum(exp_array, axis=0)
         return exp_array / normalization_array[:]
 
-    def read_bertopic_model(self):
+    def read_bertopic_model(self, bertopic_model_path):
+        self.bertopic_model_path = bertopic_model_path
+        self.representation_loaded_from = 'bertopic'
         # Load a bertopic model
         self.topic_model = BERTopic.load(self.bertopic_model_path)
 
@@ -53,7 +58,21 @@ class ActionProb():
         self.rep_list = list(range(self.nreps))
         self.ntopics = len(self.representation_dict) - 1 # exclude topic number '-1'
         self.topic_list = list(range(self.ntopics))
+    
+    def read_representation_dictionary(self, representation_dict_pickle_path):
+        self.representation_dict_pickle_path = representation_dict_pickle_path
+        self.representation_loaded_from = 'representation dictionary pickle'
+        with open(self.representation_dict_pickle_path ,'rb') as handle:
+            self.representation_dict = pickle.load(handle)
+        handle.close()
 
+        # nreps counted from the representations of the first topic
+        # assuming number of reps don't change with topic
+        self.nreps = len(self.representation_dict[0])
+        self.rep_list = list(range(self.nreps))
+        self.ntopics = len(self.representation_dict) - 1 # exclude topic number '-1'
+        # assuming topic idx is contiguous between 0 to ntopics
+        self.topic_list = list(range(self.ntopics))
 
     def read_rep_action_mapping_csv(self, action_rep_action_mapping_csv_path):
         self.action_representation_map_df = pd.read_csv(self.rep_action_mapping_csv_path)
@@ -109,7 +128,6 @@ class ActionProb():
         self.action_probability_topic_wise = self.softmax2d(self.action_topic_wise_ctfidf_sum)
 
     def calc_action_probs(self, bertopic_model_path, rep_action_mapping_csv_path, additional_topic_actions_csv_path=None):
-        self.bertopic_model_path = bertopic_model_path
         self.rep_action_mapping_csv_path = rep_action_mapping_csv_path
         self.additional_topic_actions_csv_path = additional_topic_actions_csv_path
 
