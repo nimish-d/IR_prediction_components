@@ -74,11 +74,15 @@ class ActionProb():
         # assuming topic idx is contiguous between 0 to ntopics
         self.topic_list = list(range(self.ntopics))
 
-    def read_rep_action_mapping_csv(self, rep_action_mapping_csv_path):
+    def read_rep_action_mapping_csv(self, rep_action_mapping_csv_path, nactions=None):
         self.rep_action_mapping_csv_path = rep_action_mapping_csv_path
         self.action_representation_map_df = pd.read_csv(self.rep_action_mapping_csv_path)
         self.action_list = self.action_representation_map_df['ActionID'].unique()
-        self.nactions = len(self.action_list)
+
+        if (nactions is None):
+            self.nactions = len(self.action_list)
+        else:
+            self.nactions = nactions
 
         # 3d array containing the mapping between between actions and representations for every topic
         # shape: nactions x ntopics x nreps
