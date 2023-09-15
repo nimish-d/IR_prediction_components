@@ -50,13 +50,16 @@ class ActionProb():
         # each tuple contains the representative string and the corresponding ctfidf value
         self.representation_dict = self.topic_model.topic_representations_
 
+        # delete the representations for -1
+        del self.representation_dict[-1]
+
         # get parameters of the topic model
         self.topic_param_dict = self.topic_model.get_params()
 
         # get the number of representations (nreps) per topic
         self.nreps = int(self.topic_param_dict['top_n_words'])
         self.rep_list = list(range(self.nreps))
-        self.ntopics = len(self.representation_dict) - 1 # exclude topic number '-1'
+        self.ntopics = len(self.representation_dict)
         self.topic_list = list(range(self.ntopics))
     
     def read_representation_dictionary(self, representation_dict_pickle_path):
@@ -66,11 +69,14 @@ class ActionProb():
             self.representation_dict = pickle.load(handle)
         handle.close()
 
+        # delete the representations for -1
+        del self.representation_dict[-1]
+
         # nreps counted from the representations of the first topic
         # assuming number of reps don't change with topic
         self.nreps = len(self.representation_dict[0])
         self.rep_list = list(range(self.nreps))
-        self.ntopics = len(self.representation_dict) - 1 # exclude topic number '-1'
+        self.ntopics = len(self.representation_dict)
         # assuming topic idx is contiguous between 0 to ntopics
         self.topic_list = list(range(self.ntopics))
 
