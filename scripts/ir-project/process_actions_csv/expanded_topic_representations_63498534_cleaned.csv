@@ -1,0 +1,1701 @@
+topic,rep_idx,rep_ctfidf,rep_string,Count,Action
+-1,0,0.0964,physical document,11,
+-1,1,0.0964,physical,1,
+-1,2,0.0959,remarks provide revised medical,1,Ensure you have provided bill as per the agreed packages only
+-1,3,0.0959,remarks provide revised,1,
+-1,4,0.0938,provide revised medical agreed,1,Ensure you have provided bill as per the agreed packages only
+-1,5,0.0938,provide revised medical,1,
+-1,6,0.0938,revised medical agreed,1,Ensure you have provided bill as per the agreed packages only
+-1,7,0.0938,medical agreed,1,
+-1,8,0.0938,revised medical agreed schedule,1,Ensure you have provided bill as per the agreed packages only
+-1,9,0.0938,medical agreed schedule,1,Ensure you have provided bill as per the agreed packages only
+-1,10,0.0938,medical agreed schedule charge,1,Ensure you have provided bill as per the agreed packages only
+-1,11,0.0938,schedule charge,1,Ensure you have provided bill as per the agreed packages only
+-1,12,0.0938,agreed schedule charge,1,Ensure you have provided bill as per the agreed packages only
+-1,13,0.0938,schedule charge tariff,1,Ensure you have provided bill as per the agreed packages only
+-1,14,0.0938,agreed schedule charge tariff,1,Ensure you have provided bill as per the agreed packages only
+-1,15,0.0938,agreed schedule,1,Ensure you have provided bill as per the agreed packages only
+-1,16,0.0938,schedule,1,Ensure you have provided bill as per the agreed packages only
+-1,17,0.0936,charge tariff,1,Ensure you have provided bill as per the agreed packages only
+-1,18,0.093,revised medical,1,
+-1,19,0.0921,remarks doctor,1,
+0,0,0.2461,remarks provide supportive investigation,11,Ensure you have uploaded all the supportive Investigation Reports
+0,1,0.2461,remarks provide supportive,11,Ensure you have uploaded all the supportive Investigation Reports
+0,2,0.2284,report remarks provide supportive,11,Ensure you have uploaded all the supportive Investigation Reports
+0,3,0.2138,record support diagnosis provide,11,Ensure you have uploaded all the supportive Investigation Reports
+0,4,0.2128,support diagnosis provide,11,Ensure you have uploaded all the supportive Investigation Reports
+0,5,0.2087,diagnosis provide,11,
+0,6,0.1941,diagnosis remarks provide supportive,11,Ensure you have uploaded all the supportive Investigation Reports
+0,7,0.1776,record support diagnosis,11,Ensure you have uploaded all the supportive Investigation Reports
+0,8,0.1776,medical record support diagnosis,11,Ensure you have uploaded all the supportive Investigation Reports
+0,9,0.1776,medical record support,11,Ensure you have uploaded all the supportive Investigation Reports
+0,10,0.1776,record support,11,Ensure you have uploaded all the supportive Investigation Reports
+0,11,0.1776,report medical record support,11,
+0,12,0.1776,supportive investigation report medical,11,Ensure you have uploaded all the supportive Investigation Reports
+0,13,0.1776,report medical record,11,
+0,14,0.1776,investigation report medical,11,Ensure you have uploaded all the supportive Investigation Reports
+0,15,0.1776,investigation report medical record,11,Ensure you have uploaded all the supportive Investigation Reports
+0,16,0.1775,report medical,11,
+0,17,0.1775,medical record,11,
+0,18,0.177,provide supportive investigation report,11,Ensure you have uploaded all the supportive Investigation Reports
+0,19,0.1769,provide supportive investigation,11,Ensure you have uploaded all the supportive Investigation Reports
+1,0,0.3457,remarks detailed discharge summary,1,"Detailed discharge summary with the reason for hospitalization, significant findings, procedure done, treatment given"
+1,1,0.3439,remarks detailed discharge,1,"Detailed discharge summary with the reason for hospitalization, significant findings, procedure done, treatment given"
+1,2,0.3436,detailed discharge summary reason,1,"Detailed discharge summary with the reason for hospitalization, significant findings, procedure done, treatment given"
+1,3,0.3433,remarks detailed,1,
+1,4,0.3354,detailed discharge summary,1,"Detailed discharge summary with the reason for hospitalization, significant findings, procedure done, treatment given"
+1,5,0.3333,detailed discharge,1,"Detailed discharge summary with the reason for hospitalization, significant findings, procedure done, treatment given"
+1,6,0.3321,reason hospitalization significant,1,
+1,7,0.3321,reason hospitalization significant finding,1,
+1,8,0.3321,significant finding procedure treatment,1,
+1,9,0.3321,treatment provided hospital,1,
+1,10,0.3321,hospitalization significant finding procedure,1,
+1,11,0.3321,discharge summary reason hospitalization,1,"Detailed discharge summary with the reason for hospitalization, significant findings, procedure done, treatment given"
+1,12,0.3321,significant finding procedure,1,
+1,13,0.3321,summary reason hospitalization significant,1,
+1,14,0.3321,finding procedure treatment provided,1,
+1,15,0.3321,summary reason hospitalization,1,
+1,16,0.3321,procedure treatment provided,1,
+1,17,0.3321,procedure treatment provided hospital,1,
+1,18,0.3321,finding procedure treatment,1,
+1,19,0.3321,discharge summary reason,1,"Detailed discharge summary with the reason for hospitalization, significant findings, procedure done, treatment given"
+2,0,0.4788,cashless,1,
+2,1,0.3897,cashless document,1,Ensure you have attached the Cashless Claim Form
+2,2,0.36,provide cashless,1,
+2,3,0.3141,remarks provide cashless,1,
+2,4,0.2701,cashless claim,1,Ensure you have attached the Cashless Claim Form
+2,5,0.2674,provide cashless document,1,
+2,6,0.2614,cashless document processing,1,
+2,7,0.2608,submit cashless,1,
+2,8,0.2432,cashless final,1,Ensure to provide cashless final bill with detailed breakup
+2,9,0.2387,provide cashless claim,1,Ensure you have attached the Cashless Claim Form
+2,10,0.237,submit cashless final,1,Ensure to provide cashless final bill with detailed breakup
+2,11,0.235,hospital submit cashless,1,
+2,12,0.235,query hospital submit cashless,1,
+2,13,0.234,hospital submit cashless final,1,Ensure to provide cashless final bill with detailed breakup
+2,14,0.2312,cashless claim form,1,Ensure you have attached the Cashless Claim Form
+2,15,0.23,query hospital submit,1,
+2,16,0.2299,set cashless,1,
+2,17,0.2292,letter remarks,1,
+2,18,0.2291,hospital submit,1,
+2,19,0.2282,query hospital,1,
+3,0,0.3723,remarks submit,7,
+3,1,0.3339,submit,7,
+3,2,0.2829,post,7,
+3,3,0.2697,submit ot note,7,Ensure to provide Detailed OT Notes with Anesthesia Notes
+3,4,0.2696,submit ot,7,Ensure to provide Detailed OT Notes with Anesthesia Notes
+3,5,0.2661,report remarks submit,7,
+3,6,0.2617,remarks submit ot note,7,Ensure to provide Detailed OT Notes with Anesthesia Notes
+3,7,0.2615,remarks submit ot,7,Ensure to provide Detailed OT Notes with Anesthesia Notes
+3,8,0.2607,sign,7,
+3,9,0.2489,sign remarks,7,
+3,10,0.247,remarks enclose,7,
+3,11,0.2435,post op,7,Ensure to provide X-ray post surgery
+3,12,0.2433,seal,7,
+3,13,0.2426,ot note,7,Ensure to provide Detailed OT Notes with Anesthesia Notes
+3,14,0.2412,feedback form,7,Ensure to provide Beneficiary Feed back form
+3,15,0.2412,feedback,7,Ensure to provide Beneficiary Feed back form
+3,16,0.2404,op,7,
+3,17,0.2387,submit discharge,7,
+3,18,0.237,provide post,7,
+3,19,0.2341,ot,7,Ensure to provide Detailed OT Notes with Anesthesia Notes
+4,0,0.3871,remarks provide duration,2,Ensure to provide the duration of Ailment
+4,1,0.3857,remarks provide duration ailment,2,Ensure to provide the duration of Ailment
+4,2,0.3337,provide duration,2,
+4,3,0.3327,admission advise,2,Ensure to provide OPD consultation paper with advice for investigations and or treatment and duration of ailment
+4,4,0.3327,consultation paper admission,2,Ensure to provide OPD consultation paper with advice for investigations and or treatment and duration of ailment
+4,5,0.3326,ailment consultation paper admission,2,Ensure to provide OPD consultation paper with advice for investigations and or treatment and duration of ailment
+4,6,0.3326,admission advise note,2,Ensure to provide OPD consultation paper with advice for investigations and or treatment and duration of ailment
+4,7,0.3325,advise note,2,
+4,8,0.3325,paper admission advise,2,Ensure to provide OPD consultation paper with advice for investigations and or treatment and duration of ailment
+4,9,0.3325,consultation paper admission advise,2,Ensure to provide OPD consultation paper with advice for investigations and or treatment and duration of ailment
+4,10,0.3324,paper admission advise note,2,Ensure to provide OPD consultation paper with advice for investigations and or treatment and duration of ailment
+4,11,0.3323,advise,2,
+4,12,0.3323,provide duration ailment,2,Ensure to provide the duration of Ailment
+4,13,0.3322,ailment consultation,2,Ensure to provide OPD consultation paper with advice for investigations and or treatment and duration of ailment
+4,14,0.3322,ailment consultation paper,2,Ensure to provide OPD consultation paper with advice for investigations and or treatment and duration of ailment
+4,15,0.3317,duration ailment consultation,2,Ensure to provide the duration of Ailment
+4,16,0.3317,provide duration ailment consultation,2,Ensure to provide the duration of Ailment
+4,17,0.3317,duration ailment consultation paper,2,Ensure to provide the duration of Ailment
+4,18,0.3315,paper admission,2,
+4,19,0.3305,duration ailment,2,Ensure to provide the duration of Ailment
+5,0,0.4255,remarks share revised agreed,1,
+5,1,0.4126,share revised agreed package,1,Ensure you have provided bill as per the agreed packages only
+5,2,0.4117,share revised agreed,1,Ensure you have provided bill as per the agreed packages only
+5,3,0.4087,remarks share revised,1,
+5,4,0.3983,revised agreed package mou,1,Ensure you have provided bill as per the agreed packages only
+5,5,0.3983,package mou excess,1,Ensure you have provided bill as per the agreed packages only
+5,6,0.3983,package mou,1,Ensure you have provided bill as per the agreed packages only
+5,7,0.3983,agreed package mou excess,1,Ensure you have provided bill as per the agreed packages only
+5,8,0.3983,agreed package mou,1,Ensure you have provided bill as per the agreed packages only
+5,9,0.3983,package mou excess collected,1,Ensure you have provided bill as per the agreed packages only
+5,10,0.3983,mou excess,1,Ensure you have provided bill as per the agreed packages only
+5,11,0.3983,mou excess collected,1,Ensure you have provided bill as per the agreed packages only
+5,12,0.3983,mou excess collected patient,1,Ensure you have provided bill as per the agreed packages only
+5,13,0.3982,excess collected patient,1,
+5,14,0.3982,excess collected,1,
+5,15,0.398,mou,1,Ensure you have provided bill as per the agreed packages only
+5,16,0.3924,revised agreed package,1,Ensure you have provided bill as per the agreed packages only
+5,17,0.3901,excess,1,
+5,18,0.3811,revised agreed,1,Ensure you have provided bill as per the agreed packages only
+5,19,0.3796,collected patient,1,
+6,0,0.5149,remarks require final detailed,3,
+6,1,0.5142,remarks require final,3,
+6,2,0.5076,require final detailed breakup,3,Ensure to provide final bill with detailed breakup
+6,3,0.5075,require final detailed,3,Ensure to provide final bill with detailed breakup
+6,4,0.5063,require final,3,
+6,5,0.505,remarks require,3,
+6,6,0.4892,final detailed breakup,3,Ensure to provide final bill with detailed breakup
+6,7,0.4866,final detailed,3,
+6,8,0.4829,detailed breakup,3,Ensure to provide final bill with detailed breakup
+6,9,0.4759,require,3,
+6,10,0.4136,detailed breakup charge,3,Ensure to provide final bill with detailed breakup
+6,11,0.4135,final detailed breakup charge,3,Ensure to provide final bill with detailed breakup
+6,12,0.4129,breakup charge,3,Ensure to provide final bill with detailed breakup
+6,13,0.3896,breakup,3,
+6,14,0.3827,breakup charge provide,3,Ensure to provide final bill with detailed breakup
+6,15,0.3827,detailed breakup charge provide,3,Ensure to provide final bill with detailed breakup
+6,16,0.3619,charge provide,3,
+6,17,0.2957,charge provide final,3,
+6,18,0.2956,breakup charge provide final,3,Ensure to provide final bill with detailed breakup
+6,19,0.2691,final,3,
+7,0,0.3298,remarks provide detailed line,6,
+7,1,0.3264,remarks provide detailed,6,
+7,2,0.3107,provide detailed line treatment,6,
+7,3,0.3105,provide detailed line,6,
+7,4,0.2935,route drug administration,6,Ensure to provide Treatment or Medication or Drug chart
+7,5,0.2933,route drug,6,Ensure to provide Treatment or Medication or Drug chart
+7,6,0.2933,route,6,
+7,7,0.2931,drug administration,6,Ensure to provide Treatment or Medication or Drug chart
+7,8,0.2928,provide detailed,6,
+7,9,0.2927,medicine route drug administration,6,Ensure to provide Treatment or Medication or Drug chart
+7,10,0.2924,administration,6,
+7,11,0.2924,treatment medicine,6,Ensure to provide Treatment or Medication or Drug chart
+7,12,0.2921,detailed line treatment medicine,6,Ensure to provide Treatment or Medication or Drug chart
+7,13,0.292,medicine route drug,6,Ensure to provide Treatment or Medication or Drug chart
+7,14,0.292,treatment medicine route drug,6,Ensure to provide Treatment or Medication or Drug chart
+7,15,0.292,line treatment medicine,6,Ensure to provide Treatment or Medication or Drug chart
+7,16,0.2919,treatment medicine route,6,Ensure to provide Treatment or Medication or Drug chart
+7,17,0.2919,line treatment medicine route,6,Ensure to provide Treatment or Medication or Drug chart
+7,18,0.2919,medicine route,6,Ensure to provide Treatment or Medication or Drug chart
+7,19,0.2788,medicine,6,
+8,0,0.2518,schedule charge tariff revise,5,Ensure you have provided bill as per the agreed tariff or packages only
+8,1,0.2516,charge tariff revise,5,Ensure you have provided bill as per the agreed tariff or packages only
+8,2,0.2488,remarks provide revised medical,5,
+8,3,0.2487,tariff revise,5,Ensure you have provided bill as per the agreed tariff or packages only
+8,4,0.2484,remarks provide revised,5,
+8,5,0.2248,schedule charge tariff,5,Ensure you have provided bill as per the agreed tariff or packages only
+8,6,0.2248,agreed schedule charge tariff,5,Ensure you have provided bill as per the agreed tariff or packages only
+8,7,0.2248,medical agreed schedule charge,5,Ensure you have provided bill as per the agreed tariff or packages only
+8,8,0.2248,revised medical agreed schedule,5,Ensure you have provided bill as per the agreed tariff or packages only
+8,9,0.2248,medical agreed schedule,5,Ensure you have provided bill as per the agreed tariff or packages only
+8,10,0.2248,provide revised medical agreed,5,Ensure you have provided bill as per the agreed tariff or packages only
+8,11,0.2248,schedule charge,5,Ensure you have provided bill as per the agreed tariff or packages only
+8,12,0.2248,agreed schedule charge,5,Ensure you have provided bill as per the agreed tariff or packages only
+8,13,0.2247,agreed schedule,5,Ensure you have provided bill as per the agreed tariff or packages only
+8,14,0.2247,revised medical agreed,5,
+8,15,0.2247,medical agreed,5,
+8,16,0.2247,provide revised medical,5,
+8,17,0.2246,schedule,5,Ensure you have provided bill as per the agreed tariff or packages only
+8,18,0.2244,provide revised,5,
+8,19,0.2242,charge tariff,5,Ensure you have provided bill as per the agreed tariff or packages only
+9,0,0.3451,remarks provide letter treating,4,
+9,1,0.3309,past medicalsurgical history,4,"Doctor Letter with detailed history, significant findings and line of treatment"
+9,2,0.3308,past medicalsurgical,4,"Doctor Letter with detailed history, significant findings and line of treatment"
+9,3,0.3305,past medicalsurgical history patient,4,"Doctor Letter with detailed history, significant findings and line of treatment"
+9,4,0.3305,medicalsurgical history patient,4,"Doctor Letter with detailed history, significant findings and line of treatment"
+9,5,0.3305,medicalsurgical history,4,"Doctor Letter with detailed history, significant findings and line of treatment"
+9,6,0.3302,medicalsurgical,4,"Doctor Letter with detailed history, significant findings and line of treatment"
+9,7,0.3292,stating significant,4,
+9,8,0.3292,stating significant past,4,"Doctor Letter with detailed history, significant findings and line of treatment"
+9,9,0.3292,significant past,4,"Doctor Letter with detailed history, significant findings and line of treatment"
+9,10,0.3291,stating significant past medicalsurgical,4,"Doctor Letter with detailed history, significant findings and line of treatment"
+9,11,0.3291,significant past medicalsurgical history,4,"Doctor Letter with detailed history, significant findings and line of treatment"
+9,12,0.3291,significant past medicalsurgical,4,"Doctor Letter with detailed history, significant findings and line of treatment"
+9,13,0.3291,patient duration,4,
+9,14,0.329,medicalsurgical history patient duration,4,"Doctor Letter with detailed history, significant findings and line of treatment"
+9,15,0.329,doctor stating significant past,4,"Doctor Letter with detailed history, significant findings and line of treatment"
+9,16,0.329,treating doctor stating significant,4,"Doctor Letter with detailed history, significant findings and line of treatment"
+9,17,0.329,doctor stating significant,4,
+9,18,0.329,history patient duration,4,"Doctor Letter with detailed history, significant findings and line of treatment"
+9,19,0.3289,duration supporting,4,
+10,0,0.45,exact time,2,Ensure the DOA and DOD on all documents are the same. Preferably with time of admission and discharge
+10,1,0.4491,exact time admission,2,Ensure the DOA and DOD on all documents are the same. Preferably with time of admission and discharge
+10,2,0.4489,admission time,2,Ensure the DOA and DOD on all documents are the same. Preferably with time of admission and discharge
+10,3,0.4488,letter hospital stating exact,2,
+10,4,0.4488,hospital stating exact,2,
+10,5,0.4488,remarks provide letter hospital,2,
+10,6,0.4488,hospital stating exact time,2,Ensure the DOA and DOD on all documents are the same. Preferably with time of admission and discharge
+10,7,0.4488,stating exact time admission,2,Ensure the DOA and DOD on all documents are the same. Preferably with time of admission and discharge
+10,8,0.4488,stating exact time,2,Ensure the DOA and DOD on all documents are the same. Preferably with time of admission and discharge
+10,9,0.4487,provide letter hospital stating,2,
+10,10,0.4486,exact time admission time,2,Ensure the DOA and DOD on all documents are the same. Preferably with time of admission and discharge
+10,11,0.4484,time admission time,2,Ensure the DOA and DOD on all documents are the same. Preferably with time of admission and discharge
+10,12,0.4484,hospital stating,2,
+10,13,0.4484,letter hospital stating,2,
+10,14,0.4474,provide letter hospital,2,
+10,15,0.4473,time admission,2,Ensure the DOA and DOD on all documents are the same. Preferably with time of admission and discharge
+10,16,0.4451,stating exact,2,
+10,17,0.4433,letter hospital,2,
+10,18,0.4391,time,2,
+10,19,0.4085,admission time discharge,2,Ensure the DOA and DOD on all documents are the same. Preferably with time of admission and discharge
+11,0,0.2487,remarks provide attested,8,
+11,1,0.2487,remarks provide attested copy,8,
+11,2,0.2055,doctor note surgery,8,Ensure to provide all indoor papers
+11,3,0.2054,doctor note surgery note,8,Ensure to provide all indoor papers
+11,4,0.2054,daily doctor note surgery,8,Ensure to provide all indoor papers
+11,5,0.2053,admission note daily doctor,8,Ensure to provide all indoor papers
+11,6,0.2053,note daily doctor note,8,Ensure to provide all indoor papers
+11,7,0.2053,note daily doctor,8,Ensure to provide all indoor papers
+11,8,0.2052,daily doctor note,8,Ensure to provide all indoor papers
+11,9,0.2052,tpr chart,8,Ensure to provide TPR Chart
+11,10,0.2052,daily doctor,8,Ensure to provide all indoor papers
+11,11,0.205,treatment sheet nurse note,8,Ensure to attach Nurse Notes
+11,12,0.205,sheet nurse note,8,Ensure to attach Nurse Notes
+11,13,0.205,sheet nurse note tpr,8,Ensure to attach Nurse Notes
+11,14,0.205,note tpr chart,8,Ensure to provide TPR Chart
+11,15,0.205,nurse note tpr chart,8,Ensure to attach Nurse Notes
+11,16,0.205,nurse note tpr,8,Ensure to attach Nurse Notes
+11,17,0.205,surgery note treatment,8,Ensure to provide Detailed OT Notes with Anesthesia Notes
+11,18,0.205,note surgery note treatment,8,Ensure to provide Detailed OT Notes with Anesthesia Notes
+11,19,0.205,surgery note treatment sheet,8,Ensure to provide Treatment or Medication or Drug chart
+12,0,0.3473,reason prolonged length,7,Doctor Letter providing the reason for prolonged stay
+12,1,0.3473,reason prolonged length stay,7,Doctor Letter providing the reason for prolonged stay
+12,2,0.3472,explaining reason prolonged,7,Doctor Letter providing the reason for prolonged stay
+12,3,0.3472,prolonged length stay specific,7,Doctor Letter providing the reason for prolonged stay
+12,4,0.3472,length stay specific inpatient,7,Doctor Letter providing the reason for prolonged stay
+12,5,0.3472,stay specific inpatient,7,
+12,6,0.3472,stay specific,7,
+12,7,0.3472,length stay specific,7,Doctor Letter providing the reason for prolonged stay
+12,8,0.3472,specific inpatient,7,
+12,9,0.3472,letter explaining reason prolonged,7,Doctor Letter providing the reason for prolonged stay
+12,10,0.3472,doctor letter explaining reason,7,
+12,11,0.3472,explaining reason prolonged length,7,Doctor Letter providing the reason for prolonged stay
+12,12,0.3471,letter explaining reason,7,
+12,13,0.3471,doctor letter explaining,7,
+12,14,0.3468,letter explaining,7,
+12,15,0.3468,explaining reason,7,
+12,16,0.3462,prolonged length stay,7,Doctor Letter providing the reason for prolonged stay
+12,17,0.3461,prolonged length,7,Doctor Letter providing the reason for prolonged stay
+12,18,0.3445,specific,7,
+12,19,0.3428,reason prolonged,7,
+13,0,0.2212,diagnosis revise,1,
+13,1,0.2207,support diagnosis revise,1,Ensure to provide investigation reports to support diagnosis
+13,2,0.2207,record support diagnosis revise,1,Ensure to provide investigation reports to support diagnosis
+13,3,0.1727,tariff provide supportive,1,Ensure you have provided bill as per the agreed tariff or packages only
+13,4,0.172,tariff provide supportive investigation,1,Ensure you have provided bill as per the agreed tariff or packages only
+13,5,0.1643,charge tariff remarks provide,1,Ensure you have provided bill as per the agreed tariff or packages only
+13,6,0.1639,tariff remarks provide supportive,1,Ensure you have provided bill as per the agreed tariff or packages only
+13,7,0.1625,schedule charge tariff remarks,1,Ensure you have provided bill as per the agreed tariff or packages only
+13,8,0.1595,charge tariff remarks,1,Ensure you have provided bill as per the agreed tariff or packages only
+13,9,0.1541,charge tariff provide supportive,1,Ensure you have provided bill as per the agreed tariff or packages only
+13,10,0.1477,tariff remarks provide,1,Ensure you have provided bill as per the agreed tariff or packages only
+13,11,0.1474,tariff provide,1,Ensure you have provided bill as per the agreed tariff or packages only
+13,12,0.1441,agreed schedule,1,Ensure you have provided bill as per the agreed tariff or packages only
+13,13,0.144,schedule,1,
+13,14,0.144,agreed schedule charge tariff,1,Ensure you have provided bill as per the agreed tariff or packages only
+13,15,0.144,schedule charge tariff,1,Ensure you have provided bill as per the agreed tariff or packages only
+13,16,0.144,medical agreed schedule charge,1,Ensure you have provided bill as per the agreed tariff or packages only
+13,17,0.144,medical agreed schedule,1,Ensure you have provided bill as per the agreed tariff or packages only
+13,18,0.144,revised medical agreed schedule,1,Ensure you have provided bill as per the agreed tariff or packages only
+13,19,0.1439,schedule charge,1,Ensure you have provided bill as per the agreed tariff or packages only
+14,0,0.2979,schedule charge tariff provide,1,Ensure you have provided bill as per the agreed tariff or packages only
+14,1,0.2976,charge tariff provide,1,Ensure you have provided bill as per the agreed tariff or packages only
+14,2,0.2912,remarks provide revised medical,1,Ensure you have provided bill as per the agreed tariff or packages only
+14,3,0.2905,remarks provide revised,1,
+14,4,0.2845,package remarks provide revised,1,Ensure you have provided bill as per the agreed tariff or packages only
+14,5,0.2832,tariff provide,1,Ensure you have provided bill as per the agreed tariff or packages only
+14,6,0.2823,procedure remarks provide revised,1,
+14,7,0.2615,package remarks provide,1,Ensure you have provided bill as per the agreed tariff or packages only
+14,8,0.2545,provide revised medical,1,Ensure you have provided bill as per the agreed tariff or packages only
+14,9,0.2545,medical agreed,1,Ensure you have provided bill as per the agreed tariff or packages only
+14,10,0.2543,revised medical agreed,1,Ensure you have provided bill as per the agreed tariff or packages only
+14,11,0.2542,tariff remarks provide revised,1,Ensure you have provided bill as per the agreed tariff or packages only
+14,12,0.2541,provide revised medical agreed,1,Ensure you have provided bill as per the agreed tariff or packages only
+14,13,0.2541,agreed schedule,1,Ensure you have provided bill as per the agreed tariff or packages only
+14,14,0.254,revised medical agreed schedule,1,Ensure you have provided bill as per the agreed tariff or packages only
+14,15,0.254,medical agreed schedule,1,Ensure you have provided bill as per the agreed tariff or packages only
+14,16,0.254,schedule charge,1,Ensure you have provided bill as per the agreed tariff or packages only
+14,17,0.254,agreed schedule charge,1,Ensure you have provided bill as per the agreed tariff or packages only
+14,18,0.254,schedule,1,
+14,19,0.2539,schedule charge tariff,1,Ensure you have provided bill as per the agreed tariff or packages only
+15,0,0.5349,breakup hospital,2,Ensure to provide final bill with detailed breakup
+15,1,0.5332,breakup hospital mainfinal original,2,Ensure to provide final bill with detailed breakup
+15,2,0.5332,breakup hospital mainfinal,2,Ensure to provide final bill with detailed breakup
+15,3,0.5256,remarks breakup hospital,2,Ensure to provide final bill with detailed breakup
+15,4,0.5256,remarks breakup hospital mainfinal,2,Ensure to provide final bill with detailed breakup
+15,5,0.5253,remarks breakup,2,Ensure to provide final bill with detailed breakup
+15,6,0.521,mainfinal original,2,Ensure to provide final bill with detailed breakup
+15,7,0.521,mainfinal,2,
+15,8,0.521,hospital mainfinal original,2,
+15,9,0.521,hospital mainfinal,2,
+15,10,0.4448,original,2,
+15,11,0.4123,mainfinal original provide,2,
+15,12,0.4123,hospital mainfinal original provide,2,
+15,13,0.3975,breakup,2,
+15,14,0.3872,original provide,2,
+15,15,0.2703,mainfinal original provide final,2,
+15,16,0.2702,hospital mainfinal original enclose,2,
+15,17,0.2702,mainfinal original enclose,2,
+15,18,0.2683,break,2,
+15,19,0.263,original enclose,2,
+16,0,0.2605,diagnosis provide final,7,
+16,1,0.2601,discharge remarks provide supportive,7,Ensure to provide investigation reports to support diagnosis
+16,2,0.2593,support diagnosis provide final,7,Ensure to provide investigation reports to support diagnosis
+16,3,0.2451,diagnosis provide final discharge,7,
+16,4,0.2299,final discharge,7,
+16,5,0.2292,final discharge summary,7,"Detailed discharge summary with the reason for hospitalization, significant findings, procedure done, treatment given"
+16,6,0.2289,remarks provide supportive investigation,7,Ensure to provide investigation reports to support diagnosis
+16,7,0.2289,remarks provide supportive,7,Ensure to provide investigation reports to support diagnosis
+16,8,0.2245,summary remarks provide supportive,7,Ensure to provide investigation reports to support diagnosis
+16,9,0.2239,diagnosis provide discharge,7,
+16,10,0.2239,support diagnosis provide discharge,7,Ensure to provide investigation reports to support diagnosis
+16,11,0.2196,discharge summary final,7,"Detailed discharge summary with the reason for hospitalization, significant findings, procedure done, treatment given"
+16,12,0.219,summary final,7,
+16,13,0.2181,diagnosis provide discharge summary,7,"Detailed discharge summary with the reason for hospitalization, significant findings, procedure done, treatment given"
+16,14,0.2147,diagnosis doa,7,
+16,15,0.2147,support diagnosis doa,7,Ensure to provide investigation reports to support diagnosis
+16,16,0.2147,record support diagnosis doa,7,Ensure to provide investigation reports to support diagnosis
+16,17,0.2077,changed,7,
+16,18,0.2035,provide final discharge,7,"Detailed discharge summary with the reason for hospitalization, significant findings, procedure done, treatment given"
+16,19,0.2028,discharge remarks provide,7,
+17,0,0.3781,provide kyc,1,Ensure to provide the patient's ID Proof with address
+17,1,0.3764,policy holder,1,Ensure to provide Policy holder's PAN card
+17,2,0.3753,pan card copy employee,1,Ensure to provide Policy holder's PAN card
+17,3,0.3753,card copy employee,1,Ensure to provide Policy holder's PAN card
+17,4,0.3752,copy employee,1,Ensure to provide Policy holder's PAN card
+17,5,0.3752,holder,1,
+17,6,0.3749,claimed greater,1,Ensure to provide Policy holder's PAN card
+17,7,0.3749,greater,1,
+17,8,0.3748,card copy employee policy,1,Ensure to provide Policy holder's PAN card
+17,9,0.3748,copy employee policy,1,Ensure to provide Policy holder's PAN card
+17,10,0.3748,employee policy,1,
+17,11,0.3746,employee,1,
+17,12,0.374,id proof pan card,1,Ensure to provide the patient's ID Proof with address
+17,13,0.374,id proof pan,1,Ensure to provide the patient's ID Proof with address
+17,14,0.374,proof pan card copy,1,Ensure to provide the patient's ID Proof with address
+17,15,0.3739,provide kyc patient,1,Ensure to provide the patient's ID Proof with address
+17,16,0.3739,kyc patient id proof,1,Ensure to provide the patient's ID Proof with address
+17,17,0.3739,patient id proof pan,1,Ensure to provide the patient's ID Proof with address
+17,18,0.3739,kyc patient id,1,Ensure to provide the patient's ID Proof with address
+17,19,0.3739,provide kyc patient id,1,Ensure to provide the patient's ID Proof with address
+18,0,0.5114,beneficiary driving,5,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+18,1,0.5114,beneficiary driving licence,5,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+18,2,0.5114,primary beneficiary driving,5,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+18,3,0.5114,primary beneficiary driving licence,5,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+18,4,0.5113,proof primary beneficiary driving,5,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+18,5,0.5109,driving licence voter id,5,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+18,6,0.5108,driving licence voter,5,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+18,7,0.5108,licence voter id,5,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+18,8,0.5107,beneficiary driving licence voter,5,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+18,9,0.5107,licence voter,5,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+18,10,0.5102,licence voter id passport,5,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+18,11,0.4965,id passport,5,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+18,12,0.496,id passport adhar,5,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+18,13,0.496,passport adhar card,5,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+18,14,0.496,id passport adhar card,5,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+18,15,0.496,passport adhar,5,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+18,16,0.496,voter id passport adhar,5,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+18,17,0.4952,voter id passport,5,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+18,18,0.494,passport adhar card valid,5,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+18,19,0.4939,adhar card valid,5,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+19,0,0.3067,charge tariff provide final,6,Ensure you have provided bill as per the agreed tariff or packages only
+19,1,0.3032,tariff provide final,6,Ensure you have provided bill as per the agreed tariff or packages only
+19,2,0.2804,charge tariff initial,6,Ensure you have provided bill as per the agreed tariff or packages only
+19,3,0.2804,schedule charge tariff initial,6,Ensure you have provided bill as per the agreed tariff or packages only
+19,4,0.2788,tariff initial,6,Ensure you have provided bill as per the agreed tariff or packages only
+19,5,0.2663,remarks provide revised medical,6,Ensure you have provided bill as per the agreed tariff or packages only
+19,6,0.2659,remarks provide revised,6,
+19,7,0.2621,schedule charge tariff provide,6,Ensure you have provided bill as per the agreed tariff or packages only
+19,8,0.2618,charge tariff provide,6,Ensure you have provided bill as per the agreed tariff or packages only
+19,9,0.2606,discharge remarks provide revised,6,
+19,10,0.2575,summary remarks provide revised,6,
+19,11,0.2488,charge tariff initial approval,6,Ensure you have provided bill as per the agreed tariff or packages only
+19,12,0.248,tariff provide,6,Ensure you have provided bill as per the agreed tariff or packages only
+19,13,0.2474,tariff initial approval,6,Ensure you have provided bill as per the agreed tariff or packages only
+19,14,0.246,tariff provide final discharge,6,Ensure you have provided bill as per the agreed tariff or packages only
+19,15,0.243,final remarks provide revised,6,
+19,16,0.2401,final discharge,6,
+19,17,0.2381,agreed schedule charge tariff,6,Ensure you have provided bill as per the agreed tariff or packages only
+19,18,0.2381,schedule charge tariff,6,Ensure you have provided bill as per the agreed tariff or packages only
+19,19,0.2381,medical agreed schedule charge,6,Ensure you have provided bill as per the agreed tariff or packages only
+20,0,0.2785,ctmri,1,Ensure to provide investigation reports to support diagnosis
+20,1,0.2551,ctmri report,1,Ensure to provide investigation reports to support diagnosis
+20,2,0.2435,consultation note ctmri,1,Ensure to provide investigation reports to support diagnosis
+20,3,0.2435,previous consultation note ctmri,1,Kindly Provide all previous consultation papers of patient
+20,4,0.2435,note ctmri,1,Ensure to provide investigation reports to support diagnosis
+20,5,0.24,need admission share supportive,1,Provide reason for admission
+20,6,0.24,detailing need admission share,1,Provide reason for admission
+20,7,0.24,share supportive report,1,
+20,8,0.24,admission share supportive report,1,Ensure to provide investigation reports to support diagnosis
+20,9,0.24,admission share supportive,1,
+20,10,0.24,detailing need admission,1,Provide reason for admission
+20,11,0.24,treating doctor detailing need,1,Provide reason for admission
+20,12,0.24,doctor detailing need admission,1,Provide reason for admission
+20,13,0.2399,doctor detailing need,1,Provide reason for admission
+20,14,0.2399,need admission share,1,Provide reason for admission
+20,15,0.2399,share supportive,1,
+20,16,0.2399,treating doctor detailing,1,
+20,17,0.2399,share supportive report previous,1,Ensure to provide investigation reports to support diagnosis
+20,18,0.2399,supportive report previous consultation,1,Kindly Provide all previous consultation papers of patient
+20,19,0.2399,supportive report previous,1,Kindly Provide all previous consultation papers of patient
+21,0,0.3948,complete final,2,
+21,1,0.39,list submitted,2,
+21,2,0.3884,final remarks,2,
+21,3,0.3701,remarks list submitted,2,
+21,4,0.3701,remarks list,2,
+21,5,0.3619,remarks provide final,2,
+21,6,0.3593,submitted,2,
+21,7,0.3345,complete,2,
+21,8,0.3251,noticed,2,
+21,9,0.3245,scrutiny,2,
+21,10,0.3128,remarks scrutiny,2,
+21,11,0.2994,document noticed,2,
+21,12,0.2994,scrutiny document noticed,2,
+21,13,0.2983,scrutiny document,2,
+21,14,0.2955,final processing,2,
+21,15,0.2927,final processing remarks,2,
+21,16,0.2909,processing remarks,2,
+21,17,0.2906,list,2,
+21,18,0.2894,final,2,
+21,19,0.2855,provide final,2,
+22,0,0.2005,report remarks provide attested,1,
+22,1,0.1993,remarks provide attested copy,1,
+22,2,0.1993,remarks provide attested,1,
+22,3,0.1965,chart provide supportive investigation,1,Ensure to provide investigation reports to support diagnosis
+22,4,0.1962,chart provide supportive,1,Ensure to provide investigation reports to support diagnosis
+22,5,0.1885,tpr chart provide supportive,1,Ensure to provide TPR Chart
+22,6,0.1769,chart provide,1,
+22,7,0.1717,tpr chart provide,1,Ensure to provide TPR Chart
+22,8,0.1707,note tpr chart provide,1,Ensure to provide TPR Chart
+22,9,0.1651,nurse note,1,
+22,10,0.1651,note tpr chart,1,Ensure to provide TPR Chart
+22,11,0.165,sheet nurse note tpr,1,Ensure to provide TPR Chart
+22,12,0.165,sheet nurse note,1,
+22,13,0.165,treatment sheet nurse note,1,
+22,14,0.165,nurse note tpr chart,1,Ensure to provide TPR Chart
+22,15,0.165,nurse note tpr,1,Ensure to provide TPR Chart
+22,16,0.165,surgery note treatment sheet,1,Ensure to provide Detailed OT Notes with Anesthesia Notes
+22,17,0.165,surgery note treatment,1,Ensure to provide Detailed OT Notes with Anesthesia Notes
+22,18,0.165,note surgery note treatment,1,Ensure to provide Detailed OT Notes with Anesthesia Notes
+22,19,0.165,daily doctor note surgery,1,Ensure to provide all indoor papers
+23,0,0.3417,remarks provide hospital referral,2,Ensure to provide Hospital referral Letter
+23,1,0.3403,hospital referral letter,2,Ensure to provide Hospital referral Letter
+23,2,0.3403,hospital referral,2,Ensure to provide Hospital referral Letter
+23,3,0.3403,admission certified,2,Ensure to provide Admission Certificate
+23,4,0.3402,referral letter,2,Ensure to provide Hospital referral Letter
+23,5,0.3401,referral letter admission certified,2,Ensure to provide Hospital referral Letter
+23,6,0.3401,hospital referral letter admission,2,Ensure to provide Hospital referral Letter
+23,7,0.3401,letter admission certified,2,Ensure to provide Admission Certificate
+23,8,0.3401,referral letter admission,2,Ensure to provide Hospital referral Letter
+23,9,0.3401,provide hospital referral letter,2,Ensure to provide Hospital referral Letter
+23,10,0.3401,provide hospital referral,2,Ensure to provide Hospital referral Letter
+23,11,0.3399,letter admission,2,Ensure to provide Hospital referral Letter
+23,12,0.3375,referral,2,Ensure to provide Hospital referral Letter
+23,13,0.3357,remarks provide hospital,2,
+23,14,0.3265,provide hospital,2,
+23,15,0.3182,letter admission certified copy,2,Ensure to provide Admission Certificate
+23,16,0.3182,admission certified copy,2,Ensure to provide Admission Certificate
+23,17,0.313,certified copy,2,
+23,18,0.3107,certified,2,
+23,19,0.2847,admission certified copy provide,2,Ensure to provide Admission Certificate
+24,0,0.6693,mismatch,1,
+24,1,0.5779,blocked,1,
+24,2,0.5754,remarks justify,1,
+24,3,0.5032,justify mismatch,1,
+24,4,0.4984,blocking,1,
+24,5,0.4834,justify,1,
+24,6,0.4749,remarks justify mismatch,1,
+24,7,0.4536,package blocked,1,
+24,8,0.4513,remarks mismatch,1,
+24,9,0.4032,mismatch doa,1,Ensure DOA and DOD on all documents are same
+24,10,0.4023,delayed,1,
+24,11,0.3814,portal,1,
+24,12,0.3764,mismatch date,1,Ensure DOA and DOD on all documents are same
+24,13,0.376,provide reason delayed,1,
+24,14,0.3712,reason delayed,1,
+24,15,0.3645,remarks provide justification,1,
+24,16,0.3527,blocked remarks,1,
+24,17,0.3381,justification blocking,1,
+24,18,0.3363,justify blocking,1,
+24,19,0.3363,justify mismatch doa,1,Ensure DOA and DOD on all documents are same
+25,0,0.621,remarks share cost,1,
+25,1,0.621,remarks share cost estimate,1,Ensure to provide Cost estimates of Conventional Treatment
+25,2,0.6063,share cost,1,
+25,3,0.6061,share cost estimate,1,Ensure to provide Cost estimates of Conventional Treatment
+25,4,0.6051,share cost estimate conventional,1,Ensure to provide Cost estimates of Conventional Treatment
+25,5,0.5829,cost estimate,1,Ensure to provide Cost estimates of Conventional Treatment
+25,6,0.5817,estimate conventional,1,Ensure to provide Cost estimates of Conventional Treatment
+25,7,0.5807,cost estimate conventional,1,Ensure to provide Cost estimates of Conventional Treatment
+25,8,0.5667,conventional,1,
+25,9,0.5555,cost,1,
+25,10,0.5455,conventional treatment,1,
+25,11,0.5449,estimate conventional treatment,1,Ensure to provide Cost estimates of Conventional Treatment
+25,12,0.5444,cost estimate conventional treatment,1,Ensure to provide Cost estimates of Conventional Treatment
+25,13,0.5236,estimate,1,
+25,14,0.4383,estimate conventional treatment provide,1,Ensure to provide Cost estimates of Conventional Treatment
+25,15,0.4374,conventional treatment provide,1,
+25,16,0.3917,remarks share,1,
+25,17,0.3665,treatment provide,1,
+25,18,0.291,share,1,
+25,19,0.2848,payable remarks share cost,1,
+26,0,0.3657,alcohol,6,"Ensure to provide Alcohol Test reports (this is necessary in case of RTA, MLC cases)"
+26,1,0.3554,road traffic,6,
+26,2,0.3554,traffic,6,
+26,3,0.3554,traffic accident,6,
+26,4,0.3554,road traffic accident,6,
+26,5,0.3549,self declarion explainging,6,Ensure to provide a self-declaration of patient explaining about incident
+26,6,0.3549,abount,6,
+26,7,0.3549,abount incidence,6,
+26,8,0.3549,document required history,6,
+26,9,0.3549,request injury road traffic,6,
+26,10,0.3549,injury road,6,
+26,11,0.3549,explainging abount incidence,6,Ensure to provide a self-declaration of patient explaining about incident
+26,12,0.3549,self declarion explainging abount,6,Ensure to provide a self-declaration of patient explaining about incident
+26,13,0.3549,required history alcohol consumption,6,Ensure to provide investigation reports to support diagnosis
+26,14,0.3549,copy self declarion explainging,6,Ensure to provide a self-declaration of patient explaining about incident
+26,15,0.3549,request injury,6,
+26,16,0.3549,explainging abount incidence blood,6,Ensure to provide a self-declaration of patient explaining about incident
+26,17,0.3549,traffic accident following document,6,
+26,18,0.3549,explainging abount,6,
+26,19,0.3549,explainging,6,
+27,0,0.6752,remarks clarification discrepancy agreed,1,Ensure you have Ensure to provided the bill as per the agreed tariff or packages only or Ensure to provide clarification of any discrepancy
+27,1,0.6747,remarks clarification discrepancy,1,Ensure you have Ensure to provided the bill as per the agreed tariff or packages only or Ensure to provide clarification of any discrepancy
+27,2,0.6614,clarification discrepancy agreed,1,Ensure you have Ensure to provided the bill as per the agreed tariff or packages only or Ensure to provide clarification of any discrepancy
+27,3,0.6598,clarification discrepancy,1,Ensure you have Ensure to provided the bill as per the agreed tariff or packages only or Ensure to provide clarification of any discrepancy
+27,4,0.6458,discrepancy agreed,1,Ensure you have Ensure to provided the bill as per the agreed tariff or packages only or Ensure to provide clarification of any discrepancy
+27,5,0.6281,discrepancy,1,
+27,6,0.6032,clarification discrepancy agreed tariff,1,Ensure you have Ensure to provided the bill as per the agreed tariff or packages only or Ensure to provide clarification of any discrepancy
+27,7,0.5996,remarks clarification,1,
+27,8,0.5893,discrepancy agreed tariff,1,Ensure you have Ensure to provided the bill as per the agreed tariff or packages only or Ensure to provide clarification of any discrepancy
+27,9,0.484,agreed tariff,1,
+27,10,0.4615,clarification,1,
+27,11,0.4429,discrepancy agreed tariff provide,1,Ensure you have Ensure to provided the bill as per the agreed tariff or packages only or Ensure to provide clarification of any discrepancy
+27,12,0.4141,agreed tariff provide,1,
+27,13,0.4134,discrepancy agreed tariff revise,1,Ensure you have Ensure to provided the bill as per the agreed tariff or packages only or Ensure to provide clarification of any discrepancy
+27,14,0.4118,agreed tariff revise,1,
+27,15,0.3697,tariff remarks clarification discrepancy,1,Ensure you have Ensure to provided the bill as per the agreed tariff or packages only or Ensure to provide clarification of any discrepancy
+27,16,0.3506,tariff remarks clarification,1,Ensure you have Ensure to provided the bill as per the agreed tariff or packages only or Ensure to provide clarification of any discrepancy
+27,17,0.3255,discrepancy agreed tariffas,1,Ensure you have Ensure to provided the bill as per the agreed tariff or packages only or Ensure to provide clarification of any discrepancy
+27,18,0.3243,agreed tariffas,1,
+27,19,0.3224,tariffas,1,
+28,0,0.4792,remarks doctor certificate detailing,1,
+28,1,0.4792,remarks doctor certificate,1,
+28,2,0.4788,remarks doctor,1,
+28,3,0.4431,doctor certificate detailing etiology,1,Ensure to provide Doctor Certificate detailing aetiology
+28,4,0.4283,doctor certificate detailing,1,Ensure to provide Doctor Certificate detailing aetiology
+28,5,0.3824,etiology,1,Ensure to provide Doctor Certificate detailing aetiology
+28,6,0.3806,cause ailment,1,Ensure to provide Doctor Certificate detailing aetiology
+28,7,0.3806,etiology cause ailment,1,Ensure to provide Doctor Certificate detailing aetiology
+28,8,0.3805,etiology cause,1,Ensure to provide Doctor Certificate detailing aetiology
+28,9,0.3805,detailing etiology,1,Ensure to provide Doctor Certificate detailing aetiology
+28,10,0.3804,certificate detailing etiology cause,1,Ensure to provide Doctor Certificate detailing aetiology
+28,11,0.3804,detailing etiology cause,1,Ensure to provide Doctor Certificate detailing aetiology
+28,12,0.3804,detailing etiology cause ailment,1,Ensure to provide Doctor Certificate detailing aetiology
+28,13,0.3803,certificate detailing etiology,1,Ensure to provide Doctor Certificate detailing aetiology
+28,14,0.3799,cause,1,
+28,15,0.3767,doctor certificate,1,
+28,16,0.3704,certificate detailing,1,
+28,17,0.3426,etiology cause ailment provide,1,Ensure to provide Doctor Certificate detailing aetiology
+28,18,0.3418,cause ailment provide,1,Ensure to provide Doctor Certificate detailing aetiology
+28,19,0.3303,ailment provide,1,
+29,0,0.2829,surgery strictly,6,
+29,1,0.282,requested surgery strictly,6,
+29,2,0.2817,requested surgery,6,
+29,3,0.266,strictly,6,
+29,4,0.2645,provide requested surgery strictly,6,
+29,5,0.2642,provide requested surgery,6,
+29,6,0.2553,provide requested,6,
+29,7,0.2525,requested,6,
+29,8,0.2511,billing,6,
+29,9,0.2478,tariff provide requested surgery,6,Ensure to provide bill as per the agreed tariff or packages only
+29,10,0.2474,tariff provide requested,6,Ensure to provide bill as per the agreed tariff or packages only
+29,11,0.2471,surgery strictly agreed,6,
+29,12,0.2459,requested surgery strictly agreed,6,
+29,13,0.235,strictly agreed,6,
+29,14,0.2271,charge tariff provide requested,6,Ensure to provide bill as per the agreed tariff or packages only
+29,15,0.2209,pkg,6,
+29,16,0.2201,rate,6,
+29,17,0.2182,package rate,6,Ensure to provide bill as per the agreed tariff or packages only
+29,18,0.2053,ma agreed,6,Ensure to provide bill as per the agreed tariff or packages only
+29,19,0.2046,payable,6,
+30,0,0.4636,remarks provide id,1,Ensure to provide Patient ID Proof
+30,1,0.4636,remarks provide id proof,1,Ensure to provide Patient ID Proof
+30,2,0.4584,proof patient id,1,Ensure to provide Patient ID Proof
+30,3,0.4581,id proof patient id,1,Ensure to provide Patient ID Proof
+30,4,0.4581,proof patient id address,1,Ensure to provide Patient ID Proof
+30,5,0.4581,patient id address proof,1,Ensure to provide Patient ID Proof
+30,6,0.4581,patient id address,1,Ensure to provide Patient ID Proof
+30,7,0.4574,proof patient,1,Ensure to provide Patient ID Proof
+30,8,0.4566,id address proof,1,Ensure to provide Patient ID Proof
+30,9,0.456,id proof patient,1,Ensure to provide Patient ID Proof
+30,10,0.4558,id address,1,Ensure to provide Patient ID Proof
+30,11,0.4545,provide id,1,Ensure to provide Patient ID Proof
+30,12,0.4545,provide id proof patient,1,Ensure to provide Patient ID Proof
+30,13,0.4533,provide id proof,1,Ensure to provide Patient ID Proof
+30,14,0.436,address proof,1,Ensure to provide Patient ID Proof
+30,15,0.3982,proof,1,
+30,16,0.3844,patient id,1,Ensure to provide Patient ID Proof
+30,17,0.3644,id,1,
+30,18,0.3606,proof provide,1,
+30,19,0.3596,address proof provide,1,Ensure to provide Patient ID Proof
+31,0,0.6622,remarks provide implant,6,Ensure to provide Stickers for Implants done if any
+31,1,0.6514,invoice,6,
+31,2,0.6475,remarks provide implant sticker,6,Ensure to provide Stickers for Implants done if any
+31,3,0.6379,sticker,6,
+31,4,0.6316,implant,6,
+31,5,0.6155,provide implant,6,Ensure to provide Stickers for Implants done if any
+31,6,0.6125,implant sticker,6,Ensure to provide Stickers for Implants done if any
+31,7,0.5975,provide implant sticker,6,Ensure to provide Stickers for Implants done if any
+31,8,0.5922,sticker invoice,6,
+31,9,0.5894,invoice copy,6,
+31,10,0.5888,implant sticker invoice,6,Ensure to provide Stickers for Implants done if any
+31,11,0.5877,provide implant sticker invoice,6,Ensure to provide Stickers for Implants done if any
+31,12,0.5814,sticker invoice copy,6,Ensure to provide Stickers for Implants done if any
+31,13,0.5809,implant sticker invoice copy,6,Ensure to provide Stickers for Implants done if any
+31,14,0.4887,sticker invoice copy attach,6,Ensure to provide Stickers for Implants done if any
+31,15,0.4887,invoice copy attach,6,
+31,16,0.483,copy attach,6,
+31,17,0.4214,sticker invoice copy provide,6,Ensure to provide Stickers for Implants done if any
+31,18,0.4213,invoice copy provide,6,
+31,19,0.4099,implant invoice,6,Ensure to provide Stickers for Implants done if any
+32,0,0.5642,cycle,1,
+32,1,0.5549,number cycle,1,
+32,2,0.5536,dialysis chart number,1,Ensure to provide Dialysis Chart
+32,3,0.5534,chart number,1,
+32,4,0.5534,provide dialysis chart number,1,Ensure to provide Dialysis Chart
+32,5,0.5534,dialysis chart number cycle,1,Ensure to provide Dialysis Chart
+32,6,0.5531,chart number cycle,1,
+32,7,0.5468,provide dialysis chart,1,Ensure to provide Dialysis Chart
+32,8,0.5423,provide dialysis,1,Ensure to provide Dialysis Chart
+32,9,0.5221,dialysis chart,1,Ensure to provide Dialysis Chart
+32,10,0.5167,number cycle week,1,Ensure to provide Dialysis Chart
+32,11,0.5167,cycle week,1,
+32,12,0.5162,chart number cycle week,1,
+32,13,0.514,week,1,
+32,14,0.5117,dialysis,1,
+32,15,0.4434,remarks provide dialysis chart,1,Ensure to provide Dialysis Chart
+32,16,0.4385,remarks provide dialysis,1,Ensure to provide Dialysis Chart
+32,17,0.39,week provide,1,
+32,18,0.3893,cycle week provide,1,Ensure to provide Dialysis Chart
+32,19,0.3893,number cycle week provide,1,Ensure to provide Dialysis Chart
+33,0,0.5429,remarks clarification overcharging,7,Ensure to bill as per tariff and not overcharge on any bill item or provide clarification for overcharged items.
+33,1,0.5429,remarks clarification overcharging certain,7,Ensure to bill as per tariff and not overcharge on any bill item or provide clarification for overcharged items.
+33,2,0.5412,clarification overcharging,7,Ensure to bill as per tariff and not overcharge on any bill item or provide clarification for overcharged items.
+33,3,0.5412,clarification overcharging certain,7,Ensure to bill as per tariff and not overcharge on any bill item or provide clarification for overcharged items.
+33,4,0.5412,clarification overcharging certain component,7,Ensure to bill as per tariff and not overcharge on any bill item or provide clarification for overcharged items.
+33,5,0.5309,certain component,7,
+33,6,0.5308,overcharging certain,7,Ensure to bill as per tariff and not overcharge on any bill item or provide clarification for overcharged items.
+33,7,0.5308,component share,7,
+33,8,0.5308,overcharging certain component share,7,Ensure to bill as per tariff and not overcharge on any bill item or provide clarification for overcharged items.
+33,9,0.5308,overcharging certain component,7,Ensure to bill as per tariff and not overcharge on any bill item or provide clarification for overcharged items.
+33,10,0.5308,component share revised,7,
+33,11,0.5308,share revised review,7,
+33,12,0.5308,revised review,7,
+33,13,0.5308,certain component share,7,
+33,14,0.5308,certain component share revised,7,
+33,15,0.5308,component share revised review,7,
+33,16,0.5305,overcharging,7,Ensure to bill as per tariff and not overcharge on any bill item or provide clarification for overcharged items.
+33,17,0.5303,certain,7,
+33,18,0.5294,component,7,
+33,19,0.4312,review,7,
+34,0,0.9146,dated treatment chart,2,Ensure to provide Treatment or Medication or Drug chart
+34,1,0.9141,dated treatment,2,Ensure to provide Treatment or Medication or Drug chart
+34,2,0.9119,dated treatment chart remarks,2,Ensure to provide Treatment or Medication or Drug chart
+34,3,0.8514,treatment chart remarks submit,2,Ensure to provide Treatment or Medication or Drug chart
+34,4,0.8506,chart remarks submit,2,Ensure to provide Treatment or Medication or Drug chart
+34,5,0.8505,dated,2,
+34,6,0.8459,treatment chart remarks,2,Ensure to provide Treatment or Medication or Drug chart
+34,7,0.7889,treatment chart,2,Ensure to provide Treatment or Medication or Drug chart
+34,8,0.6954,remarks submit,2,
+34,9,0.6859,submit dialysis chart,2,Ensure to provide Treatment or Medication or Drug chart
+34,10,0.6808,remarks submit dialysis chart,2,Ensure to provide Treatment or Medication or Drug chart
+34,11,0.6727,remarks submit dialysis,2,Ensure to provide Treatment or Medication or Drug chart
+34,12,0.6715,submit dialysis,2,
+34,13,0.5803,submit,2,
+34,14,0.567,dialysis chart,2,Ensure to provide Treatment or Medication or Drug chart
+34,15,0.5633,chart remarks,2,
+34,16,0.5168,dialysis,2,
+34,17,0.3897,submit treatment chart,2,Ensure to provide Treatment or Medication or Drug chart
+34,18,0.3884,submit treatment,2,Ensure to provide Treatment or Medication or Drug chart
+34,19,0.3826,treatment chart remarks provide,2,Ensure to provide Treatment or Medication or Drug chart
+35,0,0.6124,remarks provide ot note,1,Ensure to provide Detailed OT Notes with Anesthesia Notes
+35,1,0.6121,provide ot note surgeon,1,Ensure to provide Detailed OT Notes with Anesthesia Notes
+35,2,0.6115,remarks provide ot,1,Ensure to provide Detailed OT Notes with Anesthesia Notes
+35,3,0.5889,provide ot note,1,Ensure to provide Detailed OT Notes with Anesthesia Notes
+35,4,0.5848,ot note surgeon anesthesia,1,Ensure to provide Detailed OT Notes with Anesthesia Notes
+35,5,0.5848,note surgeon anesthesia,1,Ensure to provide Detailed OT Notes with Anesthesia Notes
+35,6,0.5848,ot note surgeon,1,Ensure to provide Detailed OT Notes with Anesthesia Notes
+35,7,0.5845,note surgeon,1,Ensure to provide Detailed OT Notes with Anesthesia Notes
+35,8,0.5838,surgeon anesthesia,1,Ensure to provide Detailed OT Notes with Anesthesia Notes
+35,9,0.5831,provide ot,1,Ensure to provide Detailed OT Notes with Anesthesia Notes
+35,10,0.549,surgeon anesthesia note,1,Ensure to provide Detailed OT Notes with Anesthesia Notes
+35,11,0.549,note surgeon anesthesia note,1,Ensure to provide Detailed OT Notes with Anesthesia Notes
+35,12,0.5476,anesthesia note,1,Ensure to provide Anaesthesia Notes along with OT Notes
+35,13,0.5394,ot note,1,Ensure to provide Detailed OT Notes with Anesthesia Notes
+35,14,0.5304,anesthesia,1,Ensure to provide Anaesthesia Notes along with OT Notes
+35,15,0.5222,surgeon,1,
+35,16,0.5204,ot,1,Ensure to provide Detailed OT Notes with Anesthesia Notes
+35,17,0.4988,surgeon anesthesia note attach,1,Ensure to provide Detailed OT Notes with Anesthesia Notes
+35,18,0.4988,anesthesia note attach,1,Ensure to provide Anaesthesia Notes along with OT Notes
+35,19,0.4777,note attach,1,
+36,0,0.4695,100,7,
+36,1,0.4378,50,7,
+36,2,0.4158,2nd,7,
+36,3,0.3879,1st,7,
+36,4,0.378,procedure 50,7,
+36,5,0.3744,1st procedure,7,Ensure to provide bill as per the agreed tariff or packages only
+36,6,0.3598,25,7,
+36,7,0.3568,2nd procedure,7,Ensure to provide bill as per the agreed tariff or packages only
+36,8,0.3458,3rd,7,
+36,9,0.3291,100 1st,7,
+36,10,0.3284,procedure 100,7,
+36,11,0.3265,50 2nd,7,
+36,12,0.3174,100 2nd,7,
+36,13,0.3167,3rd procedure,7,Ensure to provide bill as per the agreed tariff or packages only
+36,14,0.3068,1st procedure 50,7,Ensure to provide bill as per the agreed tariff or packages only
+36,15,0.3046,100 1st procedure,7,Ensure to provide bill as per the agreed tariff or packages only
+36,16,0.3033,procedure 50 2nd,7,Ensure to provide bill as per the agreed tariff or packages only
+36,17,0.3027,100 1st procedure 50,7,Ensure to provide bill as per the agreed tariff or packages only
+36,18,0.302,procedure 25,7,
+36,19,0.3014,1st procedure 50 2nd,7,Ensure to provide bill as per the agreed tariff or packages only
+37,0,0.7065,remarks proper prenumbered pharmacy,1,Ensure to provide detailed bills with proper pre-numbering
+37,1,0.7065,remarks proper prenumbered,1,Ensure to provide detailed bills with proper pre-numbering
+37,2,0.705,proper prenumbered,1,Ensure to provide detailed bills with proper pre-numbering
+37,3,0.705,proper prenumbered pharmacy,1,Ensure to provide detailed bills with proper pre-numbering
+37,4,0.705,proper prenumbered pharmacy dl,1,Ensure to provide detailed bills with proper pre-numbering
+37,5,0.7047,remarks proper,1,
+37,6,0.6956,pharmacy,1,
+37,7,0.694,prenumbered pharmacy dl number,1,Ensure to provide detailed bills with proper pre-numbering
+37,8,0.694,prenumbered pharmacy dl,1,Ensure to provide detailed bills with proper pre-numbering
+37,9,0.694,pharmacy dl number,1,Ensure to provide detailed bills with proper pre-numbering
+37,10,0.694,pharmacy dl,1,
+37,11,0.694,prenumbered pharmacy,1,Ensure to provide detailed bills with proper pre-numbering
+37,12,0.694,dl number,1,
+37,13,0.678,prenumbered,1,
+37,14,0.6553,dl,1,
+37,15,0.6333,proper,1,
+37,16,0.594,pharmacy dl number provide,1,Ensure to provide detailed bills with proper pre-numbering
+37,17,0.594,dl number provide,1,
+37,18,0.5824,number provide,1,
+37,19,0.4982,number,1,
+38,0,0.703,receipt,1,
+38,1,0.6143,paid,1,
+38,2,0.5811,patient paid,1,"Kindly attach Patient paid deposit receipt clarifying amount paid towards patient's payable (NME, Co-pay etc.)"
+38,3,0.5647,paid receipt,1,"Kindly attach Patient paid deposit receipt clarifying amount paid towards patient's payable (NME, Co-pay etc.)"
+38,4,0.5305,deposit,1,
+38,5,0.5221,copay,1,"Kindly attach Patient paid deposit receipt clarifying amount paid towards patient's payable (NME, Co-pay etc.)"
+38,6,0.5044,receipt remarks,1,
+38,7,0.4996,deposit receipt,1,"Kindly attach Patient paid deposit receipt clarifying amount paid towards patient's payable (NME, Co-pay etc.)"
+38,8,0.4834,paid deposit,1,"Kindly attach Patient paid deposit receipt clarifying amount paid towards patient's payable (NME, Co-pay etc.)"
+38,9,0.4809,patient paid deposit,1,"Kindly attach Patient paid deposit receipt clarifying amount paid towards patient's payable (NME, Co-pay etc.)"
+38,10,0.4693,paid deposit receipt,1,"Kindly attach Patient paid deposit receipt clarifying amount paid towards patient's payable (NME, Co-pay etc.)"
+38,11,0.467,receipt collected patient,1,"Kindly attach Patient paid deposit receipt clarifying amount paid towards patient's payable (NME, Co-pay etc.)"
+38,12,0.467,receipt collected,1,
+38,13,0.4666,patient paid deposit receipt,1,"Kindly attach Patient paid deposit receipt clarifying amount paid towards patient's payable (NME, Co-pay etc.)"
+38,14,0.4653,numbered paid receipt,1,"Kindly attach Patient paid deposit receipt clarifying amount paid towards patient's payable (NME, Co-pay etc.)"
+38,15,0.4653,pre numbered paid receipt,1,"Kindly attach Patient paid deposit receipt clarifying amount paid towards patient's payable (NME, Co-pay etc.)"
+38,16,0.4653,numbered paid,1,"Kindly attach Patient paid deposit receipt clarifying amount paid towards patient's payable (NME, Co-pay etc.)"
+38,17,0.4653,pre numbered paid,1,
+38,18,0.4621,submit patient paid,1,"Kindly attach Patient paid deposit receipt clarifying amount paid towards patient's payable (NME, Co-pay etc.)"
+38,19,0.4593,numbered,1,
+39,0,0.3779,till,4,
+39,1,0.3664,till date,4,
+39,2,0.2968,till date remarks,4,
+39,3,0.2968,date remarks,4,
+39,4,0.2838,chart till,4,
+39,5,0.2766,date,4,
+39,6,0.2703,chart till date,4,
+39,7,0.2698,record support diagnosis enclose,4,
+39,8,0.2697,support diagnosis enclose,4,
+39,9,0.2688,diagnosis enclose,4,
+39,10,0.2665,date remarks provide,4,
+39,11,0.2634,date remarks provide supportive,4,
+39,12,0.2619,drug chart till date,4,Ensure to provide TPR Chart
+39,13,0.2609,till date remarks provide,4,
+39,14,0.2573,date remarks provide detailed,4,
+39,15,0.2568,drug chart till,4,Ensure to provide Treatment or Medication or Drug chart
+39,16,0.2498,icp treatment,4,Ensure to provide all indoor papers
+39,17,0.2495,diagnosis enclose date wise,4,
+39,18,0.2495,diagnosis enclose date,4,
+39,19,0.2495,support diagnosis enclose date,4,
+40,0,0.4792,recorded,1,
+40,1,0.4787,temperaturepulserespiration,1,Ensure to provide TPR Chart
+40,2,0.4787,recorded daily chart temperaturepulserespiration,1,Ensure to provide TPR Chart
+40,3,0.4787,temperaturepulserespiration bp,1,Ensure to provide TPR Chart
+40,4,0.4787,chart temperaturepulserespiration,1,Ensure to provide TPR Chart
+40,5,0.4787,chart temperaturepulserespiration bp,1,Ensure to provide TPR Chart
+40,6,0.4787,daily chart temperaturepulserespiration bp,1,Ensure to provide TPR Chart
+40,7,0.4787,daily chart temperaturepulserespiration,1,Ensure to provide TPR Chart
+40,8,0.4785,share recorded daily chart,1,Ensure to provide TPR Chart
+40,9,0.4785,share recorded daily,1,
+40,10,0.4785,share recorded,1,
+40,11,0.4785,recorded daily,1,
+40,12,0.4785,recorded daily chart,1,Ensure to provide TPR Chart
+40,13,0.4782,daily chart,1,Ensure to provide TPR Chart
+40,14,0.4566,remarks share recorded,1,
+40,15,0.4566,remarks share recorded daily,1,
+40,16,0.4271,bp,1,
+40,17,0.3517,bp provide,1,
+40,18,0.3517,temperaturepulserespiration bp provide,1,Ensure to provide TPR Chart
+40,19,0.3517,chart temperaturepulserespiration bp provide,1,Ensure to provide TPR Chart
+41,0,0.4193,share clarification regarding extended,3,
+41,1,0.4193,share clarification regarding,3,
+41,2,0.4191,share clarification,3,
+41,3,0.4183,remarks share clarification regarding,3,
+41,4,0.4183,remarks share clarification,3,
+41,5,0.4078,extended stay,3,"Doctor Letter providing the reason for prolonged stay, and case summary"
+41,6,0.4061,regarding extended,3,"Doctor Letter providing the reason for prolonged stay, and case summary"
+41,7,0.4058,regarding extended stay,3,"Doctor Letter providing the reason for prolonged stay, and case summary"
+41,8,0.4056,extended,3,
+41,9,0.4048,clarification regarding extended stay,3,"Doctor Letter providing the reason for prolonged stay, and case summary"
+41,10,0.4048,clarification regarding extended,3,
+41,11,0.4039,extended stay comorbidities supportive,3,"Doctor Letter providing the reason for prolonged stay, and case summary"
+41,12,0.4039,regarding extended stay comorbidities,3,"Doctor Letter providing the reason for prolonged stay, and case summary"
+41,13,0.4039,comorbidities supportive,3,
+41,14,0.4039,stay comorbidities supportive,3,"Doctor Letter providing the reason for prolonged stay, and case summary"
+41,15,0.4038,stay comorbidities,3,"Doctor Letter providing the reason for prolonged stay, and case summary"
+41,16,0.4038,extended stay comorbidities,3,"Doctor Letter providing the reason for prolonged stay, and case summary"
+41,17,0.4035,clarification regarding,3,
+41,18,0.4032,comorbidities,3,
+41,19,0.3895,regarding,3,
+42,0,0.4033,assistfirst letter remarks,2,
+42,1,0.4033,medi assistfirst letter remarks,2,
+42,2,0.3885,main original,2,
+42,3,0.3885,hospital main original,2,
+42,4,0.3849,hospital main,2,
+42,5,0.3797,main,2,
+42,6,0.3793,letter remarks,2,
+42,7,0.366,remarks hospital,2,
+42,8,0.3657,remarks hospital main original,2,
+42,9,0.3657,remarks hospital main,2,
+42,10,0.3248,letter remarks hospital main,2,
+42,11,0.3231,hospital main original provide,2,
+42,12,0.3231,main original provide,2,
+42,13,0.3216,letter remarks hospital,2,
+42,14,0.3189,assistfirst letter remarks hospital,2,
+42,15,0.3165,hospital final,2,
+42,16,0.3052,submit hospital,2,
+42,17,0.3051,final claim document,2,
+42,18,0.3051,final claim document couriered,2,
+42,19,0.3043,claim document couriered,2,
+43,0,0.3114,chart remarks provide supportive,1,
+43,1,0.2665,tpr chart remarks provide,1,Ensure to provide TPR Chart
+43,2,0.2476,note tpr chart remarks,1,Ensure to provide TPR Chart
+43,3,0.2449,tpr chart remarks,1,Ensure to provide TPR Chart
+43,4,0.2426,report provide attested,1,
+43,5,0.2426,report provide attested copy,1,
+43,6,0.2357,chart remarks provide,1,
+43,7,0.2068,chart remarks,1,
+43,8,0.1648,doctor note surgery note,1,Ensure to provide all indoor papers
+43,9,0.1648,daily doctor note surgery,1,Ensure to provide all indoor papers
+43,10,0.1648,doctor note surgery,1,Ensure to provide all indoor papers
+43,11,0.1648,admission note daily doctor,1,Ensure to provide all indoor papers
+43,12,0.1648,note daily doctor note,1,Ensure to provide all indoor papers
+43,13,0.1648,note daily doctor,1,Ensure to provide all indoor papers
+43,14,0.1647,daily doctor note,1,Ensure to provide all indoor papers
+43,15,0.1647,daily doctor,1,Ensure to provide all indoor papers
+43,16,0.1646,diagnosis provide attested copy,1,
+43,17,0.1646,diagnosis provide attested,1,
+43,18,0.1646,note tpr chart,1,Ensure to provide TPR Chart
+43,19,0.1645,note tpr,1,Ensure to provide TPR Chart
+44,0,0.3925,schedule charge tariff revise,1,Ensure you have provided bill as per the agreed tariff or packages only
+44,1,0.3922,charge tariff revise,1,Ensure you have provided bill as per the agreed tariff or packages only
+44,2,0.382,tariff revise,1,Ensure you have provided bill as per the agreed tariff or packages only
+44,3,0.3079,revise,1,
+44,4,0.2899,remarks provide revised medical,1,Ensure you have provided bill as per the agreed tariff or packages only
+44,5,0.2896,remarks provide revised,1,
+44,6,0.2887,package remarks provide revised,1,
+44,7,0.275,tariff remarks provide revised,1,Ensure you have provided bill as per the agreed tariff or packages only
+44,8,0.2739,rate remarks provide revised,1,
+44,9,0.2667,charge tariff revert,1,Ensure you have provided bill as per the agreed tariff or packages only
+44,10,0.2667,schedule charge tariff revert,1,Ensure you have provided bill as per the agreed tariff or packages only
+44,11,0.2656,tariff revert,1,Ensure you have provided bill as per the agreed tariff or packages only
+44,12,0.2648,package remarks provide,1,Ensure you have provided bill as per the agreed tariff or packages only
+44,13,0.2547,rate remarks provide,1,
+44,14,0.2542,charge tariff revise agreed,1,Ensure you have provided bill as per the agreed tariff or packages only
+44,15,0.2506,agreed schedule charge tariff,1,Ensure you have provided bill as per the agreed tariff or packages only
+44,16,0.2506,schedule charge tariff,1,Ensure you have provided bill as per the agreed tariff or packages only
+44,17,0.2505,medical agreed schedule charge,1,Ensure you have provided bill as per the agreed tariff or packages only
+44,18,0.2505,revised medical agreed schedule,1,Ensure you have provided bill as per the agreed tariff or packages only
+44,19,0.2505,medical agreed schedule,1,Ensure you have provided bill as per the agreed tariff or packages only
+45,0,0.5139,medi assistfirst letter remarks,2,
+45,1,0.5139,assistfirst letter remarks,2,
+45,2,0.4814,letter remarks,2,
+45,3,0.4307,assistfirst letter remarks provide,2,
+45,4,0.4012,letter remarks provide,2,
+45,5,0.3889,claim document,2,
+45,6,0.3883,hospital medi assistfirst,2,
+45,7,0.3883,couriered hospital medi assistfirst,2,
+45,8,0.3883,assistfirst,2,
+45,9,0.3883,medi assistfirst,2,
+45,10,0.388,claim document couriered,2,
+45,11,0.388,claim document couriered hospital,2,
+45,12,0.388,document couriered hospital medi,2,
+45,13,0.388,hospital medi,2,
+45,14,0.388,couriered hospital medi,2,
+45,15,0.3879,couriered hospital,2,
+45,16,0.3879,document couriered,2,
+45,17,0.3879,document couriered hospital,2,
+45,18,0.3879,couriered,2,
+45,19,0.3876,medi assistfirst letter,2,
+46,0,0.6385,card voter id,10,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+46,1,0.6363,card voter,10,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+46,2,0.582,liacence,10,
+46,3,0.5814,id driving liacence passport,10,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+46,4,0.5814,liacence passport,10,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+46,5,0.5814,voter id driving liacence,10,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+46,6,0.5814,id driving liacence,10,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+46,7,0.5814,driving liacence passport,10,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+46,8,0.5814,driving liacence,10,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+46,9,0.5805,aadhar card voter id,10,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+46,10,0.5797,aadhar card voter,10,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+46,11,0.5794,beneficiary aadhar card voter,10,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+46,12,0.5794,primary beneficiary aadhar card,10,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+46,13,0.5794,beneficiary aadhar,10,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+46,14,0.5794,proof primary beneficiary aadhar,10,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+46,15,0.5794,primary beneficiary aadhar,10,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+46,16,0.5794,card voter id driving,10,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+46,17,0.5794,beneficiary aadhar card,10,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+46,18,0.5359,voter id driving,10,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+46,19,0.5345,id driving,10,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+47,0,0.7668,remarks confirm previous,2,
+47,1,0.7668,remarks confirm previous pre,2,Ensure to provide Previous Pre Auth Approval Document
+47,2,0.7629,confirm previous,2,
+47,3,0.7476,utilised,2,
+47,4,0.7471,previous pre,2,Ensure to provide Previous Pre Auth Approval Document
+47,5,0.7463,previous pre authorisation,2,Ensure to provide Previous Pre Auth Approval Document
+47,6,0.7461,confirm previous pre,2,Ensure to provide Previous Pre Auth Approval Document
+47,7,0.7459,pre authorisation approved,2,Ensure to provide Previous Pre Auth Approval Document
+47,8,0.7459,authorisation approved,2,Ensure to provide Previous Pre Auth Approval Document
+47,9,0.7459,previous pre authorisation approved,2,Ensure to provide Previous Pre Auth Approval Document
+47,10,0.7457,confirm previous pre authorisation,2,Ensure to provide Previous Pre Auth Approval Document
+47,11,0.7457,approved utilised,2,Ensure to provide Previous Pre Auth Approval Document
+47,12,0.7453,authorisation approved utilised,2,Ensure to provide Previous Pre Auth Approval Document
+47,13,0.7453,pre authorisation approved utilised,2,Ensure to provide Previous Pre Auth Approval Document
+47,14,0.7415,pre authorisation,2,Ensure to provide Previous Pre Auth Approval Document
+47,15,0.7258,authorisation,2,
+47,16,0.6912,remarks confirm,2,
+47,17,0.6258,approved,2,
+47,18,0.6231,utilised ailment,2,
+47,19,0.6179,approved utilised ailment,2,Ensure to provide Previous Pre Auth Approval Document
+48,0,0.3687,personal,1,Doctor certificate with aetiology and personal history
+48,1,0.3648,remarks provide doctor certificate,1,
+48,2,0.3628,remarks provide doctor,1,
+48,3,0.3599,personal history,1,Doctor certificate with aetiology and personal history
+48,4,0.3598,alcohol,1,Ensure to provide details on the history of Alcohol Consumption preferrably on clinical notes
+48,5,0.3524,personal history patient,1,Doctor certificate with aetiology and personal history
+48,6,0.349,doctor certificate indicating,1,
+48,7,0.349,certificate indicating,1,
+48,8,0.3481,provide doctor certificate,1,
+48,9,0.3478,indicating personal history,1,Doctor certificate with aetiology and personal history
+48,10,0.3478,doctor certificate indicating personal,1,Doctor certificate with aetiology and personal history
+48,11,0.3478,indicating personal history patient,1,Doctor certificate with aetiology and personal history
+48,12,0.3478,certificate indicating personal,1,Doctor certificate with aetiology and personal history
+48,13,0.3478,certificate indicating personal history,1,Doctor certificate with aetiology and personal history
+48,14,0.3477,indicating personal,1,Doctor certificate with aetiology and personal history
+48,15,0.3477,provide doctor certificate indicating,1,Doctor certificate with aetiology and personal history
+48,16,0.3464,indicating,1,
+48,17,0.3441,alcohol history,1,Ensure to provide details on the history of Alcohol Consumption preferrably on clinical notes
+48,18,0.3429,provide doctor,1,
+48,19,0.3063,doctor certificate,1,
+49,0,0.486,assistfirst letter provide revised,2,
+49,1,0.4849,letter provide revised medical,2,Ensure you have provided bill as per the agreed tariff or packages only
+49,2,0.4844,letter provide revised,2,
+49,3,0.3625,medi assistfirst letter provide,2,
+49,4,0.3625,assistfirst letter provide,2,
+49,5,0.3576,letter provide,2,
+49,6,0.3275,remarks claim document couriered,2,
+49,7,0.3272,remarks claim document,2,
+49,8,0.3249,remarks claim,2,
+49,9,0.2791,hospital medi assistfirst letter,2,
+49,10,0.2791,medi assistfirst letter,2,
+49,11,0.2791,assistfirst letter,2,
+49,12,0.2791,hospital medi assistfirst,2,
+49,13,0.2791,medi assistfirst,2,
+49,14,0.2791,couriered hospital medi assistfirst,2,
+49,15,0.2791,assistfirst,2,
+49,16,0.2788,claim document couriered,2,
+49,17,0.2788,claim document couriered hospital,2,
+49,18,0.2788,document couriered hospital medi,2,
+49,19,0.2788,couriered hospital medi,2,
+50,0,1.2832,remarks attach final,5,
+50,1,1.2619,attach final,5,
+50,2,1.0652,remarks attach,5,
+50,3,0.779,attach,5,
+50,4,0.7339,provide final claimed,5,
+50,5,0.7323,final claimed,5,
+50,6,0.7093,remarks provide final claimed,5,
+50,7,0.6198,dod remarks attach,5,
+50,8,0.6112,dod remarks attach final,5,
+50,9,0.6016,lly enclose revised,5,
+50,10,0.5631,lly enclose,5,
+50,11,0.558,remarks provide final,5,
+50,12,0.5332,lly,5,
+50,13,0.5325,dod remarks,5,
+50,14,0.5114,enclose revised,5,
+50,15,0.4609,remarks lly enclose revised,5,
+50,16,0.4375,claimed,5,
+50,17,0.4298,final,5,
+50,18,0.4254,remarks lly enclose,5,
+50,19,0.4181,provide final,5,
+51,0,0.4947,remarks provide doctor certificate,5,
+51,1,0.4921,remarks provide doctor,5,
+51,2,0.472,certificate indicating personal history,5,Doctor Certificate with Personal History
+51,3,0.472,indicating personal history,5,Doctor Certificate with Personal History
+51,4,0.472,indicating personal history patient,5,Doctor Certificate with Personal History
+51,5,0.472,doctor certificate indicating personal,5,Doctor Certificate with Personal History
+51,6,0.472,certificate indicating personal,5,Doctor Certificate with Personal History
+51,7,0.472,provide doctor certificate indicating,5,
+51,8,0.472,indicating personal,5,
+51,9,0.4718,certificate indicating,5,
+51,10,0.4718,doctor certificate indicating,5,
+51,11,0.4711,personal history patient,5,Doctor Certificate with Personal History
+51,12,0.4699,provide doctor certificate,5,
+51,13,0.4683,indicating,5,
+51,14,0.4664,personal history,5,Doctor Certificate with Personal History
+51,15,0.4625,personal,5,
+51,16,0.4601,provide doctor,5,
+51,17,0.383,personal history patient provide,5,Doctor Certificate with Personal History
+51,18,0.3763,history patient provide,5,Doctor Certificate with Personal History
+51,19,0.3577,history patient,5,
+52,0,0.4419,smoking,6,Doctor Certificate with Personal History
+52,1,0.4011,tobacco,6,Doctor Certificate with Personal History
+52,2,0.326,smoking tobacco,6,Doctor Certificate with Personal History
+52,3,0.3044,personal,6,Doctor Certificate with Personal History
+52,4,0.2902,personal history,6,Doctor Certificate with Personal History
+52,5,0.2832,patient smoking,6,Doctor Certificate with Personal History
+52,6,0.2808,personal history patient,6,Doctor Certificate with Personal History
+52,7,0.2792,habitual,6,
+52,8,0.2789,doctor habitual history,6,Doctor Certificate with Personal History
+52,9,0.2789,doctor habitual,6,Doctor Certificate with Personal History
+52,10,0.2789,treating doctor habitual history,6,Doctor Certificate with Personal History
+52,11,0.2789,treating doctor habitual,6,Doctor Certificate with Personal History
+52,12,0.2789,letter treating doctor habitual,6,Doctor Certificate with Personal History
+52,13,0.2707,smoking history,6,Doctor Certificate with Personal History
+52,14,0.2693,provide doctor certificate,6,
+52,15,0.2693,indicating personal history patient,6,Doctor Certificate with Personal History
+52,16,0.2693,doctor certificate indicating personal,6,Doctor Certificate with Personal History
+52,17,0.2693,certificate indicating personal history,6,Doctor Certificate with Personal History
+52,18,0.2693,indicating personal history,6,Doctor Certificate with Personal History
+52,19,0.2693,certificate indicating personal,6,Doctor Certificate with Personal History
+53,0,0.1993,chart provide revised,1,
+53,1,0.1982,chart provide revised medical,1,
+53,2,0.1979,tpr chart provide revised,1,Ensure to provide TPR Chart
+53,3,0.1772,remarks provide attested,1,
+53,4,0.1772,remarks provide attested copy,1,
+53,5,0.1712,tariff remarks provide attested,1,Ensure you have provided bill as per the agreed tariff or packages only
+53,6,0.1582,note tpr chart,1,Ensure to provide TPR Chart
+53,7,0.1582,doctor note surgery note,1,Ensure to provide all indoor papers
+53,8,0.1582,daily doctor note surgery,1,Ensure to provide all indoor papers
+53,9,0.1582,doctor note surgery,1,Ensure to provide all indoor papers
+53,10,0.1581,note daily doctor note,1,Ensure to provide all indoor papers
+53,11,0.1581,admission note daily doctor,1,Ensure to provide all indoor papers
+53,12,0.1581,note daily doctor,1,Ensure to provide all indoor papers
+53,13,0.158,treatment sheet nurse note,1,Ensure to provide Nurse Notes
+53,14,0.158,sheet nurse note,1,Ensure to provide Nurse Notes
+53,15,0.158,sheet nurse note tpr,1,Ensure to provide Nurse Notes
+53,16,0.158,daily doctor note,1,Ensure to provide all indoor papers
+53,17,0.158,daily doctor,1,Ensure to provide all indoor papers
+53,18,0.158,nurse note tpr chart,1,Ensure to provide TPR Chart
+53,19,0.158,nurse note tpr,1,Ensure to provide TPR Chart
+54,0,0.3746,information,6,
+54,1,0.368,need information,6,
+54,2,0.3666,information need,6,
+54,3,0.3665,head suggest,6,
+54,4,0.3665,information need approved,6,
+54,5,0.3665,hospital letter head suggest,6,
+54,6,0.3665,need approved treating,6,
+54,7,0.3665,information need approved treating,6,
+54,8,0.3665,need approved,6,
+54,9,0.3665,information hospital letter,6,
+54,10,0.3665,approved treating doctor,6,
+54,11,0.3665,approved treating,6,
+54,12,0.3665,letter head suggest information,6,
+54,13,0.3665,need information hospital,6,
+54,14,0.3665,suggest information need approved,6,
+54,15,0.3665,information hospital letter head,6,
+54,16,0.3665,head suggest information,6,
+54,17,0.3665,information hospital,6,
+54,18,0.3665,need approved treating doctor,6,
+54,19,0.3665,letter head suggest,6,
+55,0,0.7022,submission,2,
+55,1,0.6132,date different,2,
+55,2,0.6124,submission date,2,Ensure to provide reason for late submission of documents if there is any delay
+55,3,0.6123,discharge date document,2,
+55,4,0.6123,discharge date document submission,2,Ensure to provide reason for late submission of documents if there is any delay
+55,5,0.6123,submission date different,2,Ensure to provide reason for late submission of documents if there is any delay
+55,6,0.6123,late submission discharge date,2,Ensure to provide reason for late submission of documents if there is any delay
+55,7,0.6123,date document submission date,2,Ensure to provide reason for late submission of documents if there is any delay
+55,8,0.6123,date document submission,2,Ensure to provide reason for late submission of documents if there is any delay
+55,9,0.6123,submission discharge date,2,
+55,10,0.6123,submission discharge date document,2,Ensure to provide reason for late submission of documents if there is any delay
+55,11,0.6123,document submission date different,2,Ensure to provide reason for late submission of documents if there is any delay
+55,12,0.6123,document submission date,2,Ensure to provide reason for late submission of documents if there is any delay
+55,13,0.6115,document submission,2,Ensure to provide reason for late submission of documents if there is any delay
+55,14,0.6111,submission discharge,2,
+55,15,0.6108,date document,2,
+55,16,0.6106,late submission discharge,2,Ensure to provide reason for late submission of documents if there is any delay
+55,17,0.6094,late submission,2,Ensure to provide reason for late submission of documents if there is any delay
+55,18,0.6072,reason late submission,2,Ensure to provide reason for late submission of documents if there is any delay
+55,19,0.6031,reason late,2,
+56,0,0.2288,remarks provide attested copy,1,
+56,1,0.2288,remarks provide attested,1,
+56,2,0.2194,interim remarks provide attested,1,
+56,3,0.2172,discharge remarks provide attested,1,
+56,4,0.2162,tpr chart provide final,1,Ensure to provide TPR Chart
+56,5,0.2156,chart provide final,1,
+56,6,0.2014,interim,1,
+56,7,0.1953,doctor note surgery note,1,Ensure to provide all indoor papers
+56,8,0.1953,daily doctor note surgery,1,Ensure to provide all indoor papers
+56,9,0.1953,doctor note surgery,1,Ensure to provide all indoor papers
+56,10,0.1953,note daily doctor note,1,Ensure to provide all indoor papers
+56,11,0.1953,admission note daily doctor,1,Ensure to provide all indoor papers
+56,12,0.1953,note daily doctor,1,Ensure to provide all indoor papers
+56,13,0.1952,daily doctor note,1,Ensure to provide all indoor papers
+56,14,0.1952,daily doctor,1,Ensure to provide all indoor papers
+56,15,0.1949,treatment sheet nurse note,1,Ensure to provide Treatment or Medication or Drug chart
+56,16,0.1949,sheet nurse note tpr,1,Ensure to provide Nurse Notes
+56,17,0.1949,sheet nurse note,1,Ensure to provide Nurse Notes
+56,18,0.1949,nurse note tpr,1,Ensure to provide Nurse Notes
+56,19,0.1949,nurse note tpr chart,1,Ensure to provide Nurse Notes
+57,0,0.228,chart remarks provide attested,2,
+57,1,0.1918,nurse,2,Ensure to provide Nurse Notes
+57,2,0.1917,indoor case paper containing,2,Ensure to provide all indoor papers
+57,3,0.1917,sheet nurse,2,Ensure to provide Nurse Notes
+57,4,0.1917,treatment sheet nurse,2,Ensure to provide Nurse Notes
+57,5,0.1917,note treatment sheet nurse,2,Ensure to provide Nurse Notes
+57,6,0.1917,case paper containing,2,
+57,7,0.1917,paper containing,2,
+57,8,0.1917,note treatment sheet,2,Ensure to provide Treatment or Medication or Drug chart
+57,9,0.1917,containing,2,
+57,10,0.1916,containing admission note daily,2,Ensure to provide Admission Notes
+57,11,0.1915,paper containing admission note,2,Ensure to provide Admission Notes
+57,12,0.1915,containing admission note,2,Ensure to provide Admission Notes
+57,13,0.1915,case paper containing admission,2,Ensure to provide Admission Notes
+57,14,0.1915,paper containing admission,2,Ensure to provide Admission Notes
+57,15,0.1915,containing admission,2,Ensure to provide Admission Notes
+57,16,0.1915,admission note daily,2,Ensure to provide Admission Notes
+57,17,0.1914,note daily,2,Ensure to provide all indoor papers
+57,18,0.1913,daily doctor note,2,Ensure to provide all indoor papers
+57,19,0.1913,daily doctor,2,Ensure to provide all indoor papers
+58,0,0.8571,doa,1,
+58,1,0.7793,clarify remarks,1,
+58,2,0.7632,auth doa,1,
+58,3,0.7604,pre auth doa,1,
+58,4,0.7293,remarks pre auth,1,
+58,5,0.7243,clarify remarks pre,1,
+58,6,0.7058,remarks pre auth doa,1,
+58,7,0.6765,feedback form doa,1,
+58,8,0.6756,form doa,1,
+58,9,0.6747,pre auth,1,
+58,10,0.6711,auth,1,
+58,11,0.6597,remarks pre,1,
+58,12,0.62,discharge summary doa,1,
+58,13,0.6162,summary doa,1,
+58,14,0.6056,remarks portal,1,
+58,15,0.6045,portal doa,1,
+58,16,0.5962,summary feedback form doa,1,
+58,17,0.5915,feedback,1,
+58,18,0.5883,feedback form,1,
+58,19,0.5861,clarify remarks portal,1,
+59,0,0.4098,date remarks provide attested,2,
+59,1,0.3449,till date remarks provide,2,
+59,2,0.3349,date remarks provide,2,
+59,3,0.3196,till date remarks,2,
+59,4,0.3101,till date,2,
+59,5,0.3055,date remarks,2,
+59,6,0.3002,till,2,
+59,7,0.2341,remarks provide attested copy,2,
+59,8,0.2341,remarks provide attested,2,
+59,9,0.215,date,2,
+59,10,0.1946,paper containing admission note,2,Ensure to provide Admission Notes
+59,11,0.1946,containing admission note,2,Ensure to provide Admission Notes
+59,12,0.1946,containing admission,2,Ensure to provide Admission Notes
+59,13,0.1946,paper containing admission,2,Ensure to provide Admission Notes
+59,14,0.1946,case paper containing admission,2,Ensure to provide Admission Notes
+59,15,0.1945,indoor case paper containing,2,Ensure to provide all indoor papers
+59,16,0.1945,paper containing,2,
+59,17,0.1945,case paper containing,2,
+59,18,0.1945,containing,2,
+59,19,0.1945,treatment sheet nurse note,2,Ensure to provide Nurse Notes
+60,0,0.6736,insurance,6,
+60,1,0.5303,handwritten,6,
+60,2,0.5287,seal signature handwritten,6,
+60,3,0.5287,signature handwritten,6,
+60,4,0.5278,hospital seal signature handwritten,6,
+60,5,0.5273,signature handwritten insurance,6,
+60,6,0.5273,handwritten insurance,6,
+60,7,0.5273,seal signature handwritten insurance,6,
+60,8,0.5263,company printed,6,
+60,9,0.5256,final hospital seal signature,6,
+60,10,0.5254,final hospital seal,6,
+60,11,0.5249,company printed final,6,
+60,12,0.5249,company printed final mention,6,
+60,13,0.5249,printed final mention,6,
+60,14,0.5237,mention insurance final hospital,6,
+60,15,0.5237,insurance final hospital,6,
+60,16,0.5237,insurance final hospital seal,6,
+60,17,0.5236,printed final,6,
+60,18,0.5236,insurance final,6,
+60,19,0.5235,mention insurance final,6,
+61,0,0.608,remarks share previous,2,
+61,1,0.608,remarks share previous consultation,2,Ensure to provide Previous Consultation Papers
+61,2,0.602,share previous consultation paper,2,Ensure to provide Previous Consultation Papers
+61,3,0.6011,share previous consultation,2,Ensure to provide Previous Consultation Papers
+61,4,0.5994,share previous,2,
+61,5,0.5851,doctor certificate detailing indication,2,Ensure to provide Doctor Certification with indication for surgery
+61,6,0.5851,certificate detailing indication,2,Ensure to provide Doctor Certification with indication for surgery
+61,7,0.5851,detailing indication,2,Ensure to provide Doctor Certification with indication for surgery
+61,8,0.5843,paper investition report,2,
+61,9,0.5843,paper investition report doctor,2,
+61,10,0.5843,paper investition,2,
+61,11,0.5843,investition,2,
+61,12,0.5843,consultation paper investition report,2,Ensure to provide Previous Consultation Papers
+61,13,0.5843,consultation paper investition,2,Ensure to provide Previous Consultation Papers
+61,14,0.5843,previous consultation paper investition,2,Ensure to provide Previous Consultation Papers
+61,15,0.5843,investition report doctor certificate,2,
+61,16,0.5843,investition report doctor,2,
+61,17,0.5843,investition report,2,
+61,18,0.5653,report doctor certificate detailing,2,
+61,19,0.5651,report doctor certificate,2,
+62,0,0.5353,remarks provide admission note,1,Ensure to provide Admission notes with advised line of treatment and planned type of anaesthesia
+62,1,0.535,remarks provide admission,1,Ensure to provide Admission notes with advised line of treatment and planned type of anaesthesia
+62,2,0.5124,provide admission note detailed,1,Ensure to provide Admission notes with advised line of treatment and planned type of anaesthesia
+62,3,0.5063,provide admission note,1,Ensure to provide Admission notes with advised line of treatment and planned type of anaesthesia
+62,4,0.5026,information type,1,
+62,5,0.5026,procedure information,1,Ensure to provide Admission notes with advised line of treatment and planned type of anaesthesia
+62,6,0.5026,procedure information type,1,Ensure to provide Admission notes with advised line of treatment and planned type of anaesthesia
+62,7,0.5026,planned procedure information type,1,Ensure to provide Admission notes with advised line of treatment and planned type of anaesthesia
+62,8,0.5026,planned procedure information,1,Ensure to provide Admission notes with advised line of treatment and planned type of anaesthesia
+62,9,0.5023,detailed line treatment planned,1,Ensure to provide Admission notes with advised line of treatment and planned type of anaesthesia
+62,10,0.5022,line treatment planned,1,Ensure to provide Admission notes with advised line of treatment and planned type of anaesthesia
+62,11,0.5022,treatment planned procedure information,1,Ensure to provide Admission notes with advised line of treatment and planned type of anaesthesia
+62,12,0.5022,treatment planned procedure,1,Ensure to provide Admission notes with advised line of treatment and planned type of anaesthesia
+62,13,0.5022,line treatment planned procedure,1,Ensure to provide Admission notes with advised line of treatment and planned type of anaesthesia
+62,14,0.5013,admission note detailed,1,
+62,15,0.5013,admission note detailed line,1,Ensure to provide Admission notes with advised line of treatment and planned type of anaesthesia
+62,16,0.5013,note detailed line treatment,1,Ensure to provide Admission notes with advised line of treatment and planned type of anaesthesia
+62,17,0.501,note detailed line,1,Ensure to provide Admission notes with advised line of treatment and planned type of anaesthesia
+62,18,0.5005,provide admission,1,
+62,19,0.4989,treatment planned,1,Ensure to provide Admission notes with advised line of treatment and planned type of anaesthesia
+63,0,0.2557,test report remarks provide,1,Ensure to provide investigation reports to support diagnosis
+63,1,0.254,blood test,1,Ensure to provide investigation reports to support diagnosis
+63,2,0.2399,detailing need admission share,1,Doctor letter with history and indications
+63,3,0.2399,share supportive report,1,Ensure to provide investigation reports to support diagnosis
+63,4,0.2399,admission share supportive report,1,Ensure to provide investigation reports to support diagnosis
+63,5,0.2399,admission share supportive,1,
+63,6,0.2399,need admission share supportive,1,Ensure to provide investigation reports to support diagnosis
+63,7,0.2399,doctor detailing need admission,1,Doctor letter with history and indications
+63,8,0.2399,treating doctor detailing need,1,
+63,9,0.2399,need admission share,1,Doctor letter with history and indications
+63,10,0.2399,doctor detailing need,1,
+63,11,0.2399,share supportive,1,Ensure to provide investigation reports to support diagnosis
+63,12,0.2398,treating doctor detailing,1,
+63,13,0.2398,doctor detailing,1,
+63,14,0.2398,detailing need admission,1,Doctor letter with history and indications
+63,15,0.2398,admission share,1,
+63,16,0.2397,detailing need,1,
+63,17,0.2393,supportive report previous consultation,1,Ensure to provide investigation reports to support diagnosis
+63,18,0.2393,share supportive report previous,1,Ensure to provide investigation reports to support diagnosis
+63,19,0.2393,supportive report previous,1,
+64,0,0.2677,chart remarks provide revised,5,
+64,1,0.1937,tpr chart remarks provide,5,Ensure to provide TPR Chart
+64,2,0.1917,note tpr chart remarks,5,Ensure to provide TPR Chart
+64,3,0.1905,tpr chart remarks,5,Ensure to provide TPR Chart
+64,4,0.1781,chart remarks provide,5,
+64,5,0.1736,tariff provide attested,5,Ensure you have provided bill as per the agreed tariff or packages only
+64,6,0.1736,tariff provide attested copy,5,Ensure you have provided bill as per the agreed tariff or packages only
+64,7,0.1662,chart remarks,5,
+64,8,0.1568,daily doctor note,5,Ensure to provide all indoor papers
+64,9,0.1568,daily doctor,5,Ensure to provide all indoor papers
+64,10,0.1567,doctor note surgery note,5,Ensure to provide all indoor papers
+64,11,0.1567,daily doctor note surgery,5,Ensure to provide all indoor papers
+64,12,0.1567,doctor note surgery,5,Ensure to provide all indoor papers
+64,13,0.1566,note daily doctor note,5,Ensure to provide all indoor papers
+64,14,0.1566,admission note daily doctor,5,Ensure to provide all indoor papers
+64,15,0.1566,note daily doctor,5,Ensure to provide all indoor papers
+64,16,0.1566,note tpr chart,5,Ensure to provide all indoor papers
+64,17,0.1564,surgery note,5,
+64,18,0.1564,sheet nurse note,5,Ensure to provide Nurse Notes
+64,19,0.1564,treatment sheet nurse note,5,Ensure to provide Nurse Notes
+65,0,0.511,remarks provide hospital referral,7,Ensure to provide Hospital referral Letter
+65,1,0.5021,remarks provide hospital,7,
+65,2,0.4822,provide hospital referral letter,7,Ensure to provide Hospital referral Letter
+65,3,0.4822,referral letter admission certified,7,Ensure to provide Hospital referral Letter
+65,4,0.4822,letter admission certified,7,Ensure to provide Admission Certificate
+65,5,0.4822,hospital referral letter admission,7,Ensure to provide Hospital referral Letter
+65,6,0.4822,referral letter admission,7,Ensure to provide Hospital referral Letter
+65,7,0.4822,provide hospital referral,7,Ensure to provide Hospital referral Letter
+65,8,0.4822,hospital referral letter,7,Ensure to provide Hospital referral Letter
+65,9,0.4821,hospital referral,7,Ensure to provide Hospital referral Letter
+65,10,0.4821,admission certified,7,Ensure to provide Admission Certificate
+65,11,0.4819,referral letter,7,Ensure to provide Hospital referral Letter
+65,12,0.4819,letter admission,7,Ensure to provide Hospital referral Letter
+65,13,0.4781,referral,7,Ensure to provide Hospital referral Letter
+65,14,0.4612,provide hospital,7,
+65,15,0.4256,certified,7,
+65,16,0.3876,admission certified copy,7,Ensure to provide Admission Certificate
+65,17,0.3876,letter admission certified copy,7,Ensure to provide Admission Certificate
+65,18,0.3809,certified copy,7,
+65,19,0.3546,revert final discharge,7,
+66,0,0.5147,assistfirst letter provide supportive,1,
+66,1,0.513,letter provide supportive,1,Ensure to provide investigation reports to support diagnosis
+66,2,0.513,letter provide supportive investigation,1,Ensure to provide investigation reports to support diagnosis
+66,3,0.3997,assistfirst letter provide,1,
+66,4,0.3997,medi assistfirst letter provide,1,
+66,5,0.3943,letter provide,1,
+66,6,0.3617,remarks claim document couriered,1,
+66,7,0.3613,remarks claim document,1,
+66,8,0.3583,remarks claim,1,
+66,9,0.3118,report remarks claim document,1,
+66,10,0.3108,report remarks claim,1,
+66,11,0.3064,medi assistfirst letter,1,
+66,12,0.3064,assistfirst letter,1,
+66,13,0.3064,hospital medi assistfirst letter,1,
+66,14,0.3063,couriered hospital medi assistfirst,1,
+66,15,0.3063,medi assistfirst,1,
+66,16,0.3063,assistfirst,1,
+66,17,0.3063,hospital medi assistfirst,1,
+66,18,0.3061,claim document couriered,1,
+66,19,0.3061,claim document couriered hospital,1,
+67,0,0.5695,remarks share clarification,1,
+67,1,0.5695,remarks share clarification regarding,1,
+67,2,0.5587,share clarification regarding,1,
+67,3,0.5587,share clarification regarding extended,1,Doctor Letter providing the reason for prolonged stay
+67,4,0.5583,share clarification,1,
+67,5,0.536,extended stay,1,Doctor Letter providing the reason for prolonged stay
+67,6,0.5327,regarding extended,1,Doctor Letter providing the reason for prolonged stay
+67,7,0.5322,clarification regarding extended stay,1,Doctor Letter providing the reason for prolonged stay
+67,8,0.5322,clarification regarding extended,1,Doctor Letter providing the reason for prolonged stay
+67,9,0.532,regarding extended stay,1,Doctor Letter providing the reason for prolonged stay
+67,10,0.5311,regarding extended stay comorbidities,1,Doctor Letter providing the reason for prolonged stay
+67,11,0.5311,extended stay comorbidities supportive,1,Doctor Letter providing the reason for prolonged stay
+67,12,0.5311,stay comorbidities supportive,1,Doctor Letter providing the reason for prolonged stay
+67,13,0.5311,comorbidities supportive,1,
+67,14,0.5311,stay comorbidities,1,
+67,15,0.5311,extended stay comorbidities,1,Doctor Letter providing the reason for prolonged stay
+67,16,0.5305,comorbidities,1,
+67,17,0.5293,clarification regarding,1,
+67,18,0.5249,extended,1,
+67,19,0.5034,regarding,1,
+68,0,0.3837,chart review,2,
+68,1,0.3837,note nursing chart review,2,Ensure to provide Nurse Notes
+68,2,0.3837,nursing chart review,2,Ensure to provide Nurse Notes
+68,3,0.3788,consisting clinical,2,
+68,4,0.3788,paper icp consisting,2,Ensure to provide all indoor papers
+68,5,0.3788,case paper icp consisting,2,Ensure to provide all indoor papers
+68,6,0.3788,icp consisting clinical,2,Ensure to provide all indoor papers
+68,7,0.3788,result date,2,
+68,8,0.3788,icp consisting,2,Ensure to provide all indoor papers
+68,9,0.3788,result date wise,2,Ensure to provide investigation reports to support diagnosis
+68,10,0.3788,diagnostic test result date,2,Ensure to provide investigation reports to support diagnosis
+68,11,0.3788,result date wise progress,2,Ensure to provide all indoor papers
+68,12,0.3788,wise progress note nursing,2,Ensure to provide all indoor papers
+68,13,0.3788,icp consisting clinical finding,2,Ensure to provide all indoor papers
+68,14,0.3788,progress note nursing chart,2,Ensure to provide all indoor papers
+68,15,0.3788,paper icp consisting clinical,2,Ensure to provide all indoor papers
+68,16,0.3788,date wise progress note,2,Ensure to provide all indoor papers
+68,17,0.3788,consisting clinical finding diagnostic,2,
+68,18,0.3788,consisting clinical finding,2,
+68,19,0.3788,test result date wise,2,Ensure to provide investigation reports to support diagnosis
+69,0,0.3303,report provide duration,1,Doctor Letter with duration of Ailment and Aetiology
+69,1,0.329,report provide duration ailment,1,Doctor Letter with duration of Ailment and Aetiology
+69,2,0.271,duration ailment,1,Doctor Letter with duration of Ailment and Aetiology
+69,3,0.2708,note remarks provide supportive,1,Ensure to provide investigation reports to support diagnosis
+69,4,0.2689,advise note remarks provide,1,
+69,5,0.2667,ailment consultation,1,
+69,6,0.2665,provide duration,1,Doctor Letter with duration of Ailment and Aetiology
+69,7,0.2665,ailment consultation paper,1,
+69,8,0.2656,duration ailment consultation,1,Doctor Letter with duration of Ailment and Aetiology
+69,9,0.2652,duration ailment consultation paper,1,Doctor Letter with duration of Ailment and Aetiology
+69,10,0.2651,admission advise note,1,
+69,11,0.2651,advise note,1,
+69,12,0.2649,admission advise,1,Ensure to provide Admission Consultation papers
+69,13,0.2647,paper admission advise note,1,Ensure to provide Admission Consultation papers
+69,14,0.2645,paper admission advise,1,Ensure to provide Admission Consultation papers
+69,15,0.2645,consultation paper admission advise,1,Ensure to provide Admission Consultation papers
+69,16,0.2645,provide duration ailment,1,Doctor Letter with duration of Ailment and Aetiology
+69,17,0.2644,advise,1,
+69,18,0.2644,consultation paper admission,1,Ensure to provide Admission Consultation papers
+69,19,0.2642,ailment consultation paper admission,1,Ensure to provide Admission Consultation papers
+70,0,0.3255,chart remarks share clarification,8,
+70,1,0.3176,remarks share clarification,8,
+70,2,0.3176,remarks share clarification regarding,8,
+70,3,0.3123,share clarification regarding,8,
+70,4,0.3123,share clarification regarding extended,8,Doctor Letter providing the reason for prolonged stay with case summary and  co morbidities
+70,5,0.3121,share clarification,8,
+70,6,0.3101,tpr chart remarks share,8,Ensure to provide TPR Chart
+70,7,0.3038,regarding extended stay,8,Doctor Letter providing the reason for prolonged stay with case summary and  co morbidities
+70,8,0.3037,regarding extended,8,Doctor Letter providing the reason for prolonged stay with case summary and  co morbidities
+70,9,0.3031,extended stay,8,Doctor Letter providing the reason for prolonged stay with case summary and  co morbidities
+70,10,0.3028,clarification regarding extended stay,8,Doctor Letter providing the reason for prolonged stay with case summary and  co morbidities
+70,11,0.3028,clarification regarding extended,8,Doctor Letter providing the reason for prolonged stay with case summary and  co morbidities
+70,12,0.3012,clarification regarding,8,
+70,13,0.301,regarding extended stay comorbidities,8,Doctor Letter providing the reason for prolonged stay with case summary and  co morbidities
+70,14,0.301,comorbidities supportive,8,
+70,15,0.301,extended stay comorbidities supportive,8,Doctor Letter providing the reason for prolonged stay with case summary and  co morbidities
+70,16,0.301,stay comorbidities supportive,8,Doctor Letter providing the reason for prolonged stay with case summary and  co morbidities
+70,17,0.301,stay comorbidities,8,Doctor Letter providing the reason for prolonged stay with case summary and  co morbidities
+70,18,0.301,extended stay comorbidities,8,Doctor Letter providing the reason for prolonged stay with case summary and  co morbidities
+70,19,0.3002,comorbidities,8,
+71,0,0.2759,administration provide attested copy,3,
+71,1,0.2759,administration provide attested,3,
+71,2,0.2749,drug administration provide attested,3,Ensure to provide Treatment or Medication or Drug chart
+71,3,0.2351,remarks provide detailed line,3,Ensure to provide Treatment or Medication or Drug chart
+71,4,0.2325,remarks provide detailed,3,
+71,5,0.2183,provide detailed line treatment,3,Ensure to provide Treatment or Medication or Drug chart
+71,6,0.218,provide detailed line,3,Ensure to provide Treatment or Medication or Drug chart
+71,7,0.2056,provide detailed,3,
+71,8,0.2024,medicine route drug administration,3,Ensure to provide Treatment or Medication or Drug chart
+71,9,0.2021,route drug administration provide,3,Ensure to provide Treatment or Medication or Drug chart
+71,10,0.2021,drug administration provide,3,Ensure to provide Treatment or Medication or Drug chart
+71,11,0.2017,administration provide,3,
+71,12,0.2016,route drug administration,3,Ensure to provide Treatment or Medication or Drug chart
+71,13,0.2013,drug administration,3,Ensure to provide Treatment or Medication or Drug chart
+71,14,0.2012,detailed line treatment medicine,3,Ensure to provide Treatment or Medication or Drug chart
+71,15,0.2012,treatment medicine route drug,3,Ensure to provide Treatment or Medication or Drug chart
+71,16,0.2012,line treatment medicine route,3,Ensure to provide Treatment or Medication or Drug chart
+71,17,0.2012,treatment medicine route,3,Ensure to provide Treatment or Medication or Drug chart
+71,18,0.2011,medicine route drug,3,Ensure to provide Treatment or Medication or Drug chart
+71,19,0.201,medicine route,3,Ensure to provide Treatment or Medication or Drug chart
+72,0,0.2305,chart remarks doctor certificate,1,
+72,1,0.2305,chart remarks doctor,1,
+72,2,0.2179,ailment provide attested,1,
+72,3,0.2179,ailment provide attested copy,1,
+72,4,0.2119,tpr chart remarks doctor,1,Ensure to provide TPR Chart
+72,5,0.2104,remarks doctor certificate,1,
+72,6,0.2104,remarks doctor certificate detailing,1,
+72,7,0.2102,remarks doctor,1,
+72,8,0.2062,cause ailment provide attested,1,Doctor Certificate with Personal History and Aetiology
+72,9,0.1977,doctor certificate,1,
+72,10,0.196,doctor certificate detailing etiology,1,Doctor Certificate with Personal History and Aetiology
+72,11,0.1929,doctor certificate detailing,1,
+72,12,0.1735,detailing etiology,1,Doctor Certificate with Personal History and Aetiology
+72,13,0.1732,detailing etiology cause ailment,1,Doctor Certificate with Personal History and Aetiology
+72,14,0.1732,certificate detailing etiology cause,1,Doctor Certificate with Personal History and Aetiology
+72,15,0.1732,detailing etiology cause,1,Doctor Certificate with Personal History and Aetiology
+72,16,0.1732,etiology cause ailment,1,Doctor Certificate with Personal History and Aetiology
+72,17,0.1732,certificate detailing etiology,1,Doctor Certificate with Personal History and Aetiology
+72,18,0.1729,etiology cause,1,Doctor Certificate with Personal History and Aetiology
+72,19,0.1721,cause ailment,1,Doctor Certificate with Personal History and Aetiology
+73,0,0.7432,share revised medical,1,Ensure to provided the bill as per government's rule agreed tariff or packages only
+73,1,0.7427,share revised medical package,1,Ensure to provided the bill as per government's rule agreed tariff or packages only
+73,2,0.7425,remarks share revised medical,1,Ensure to provided the bill as per government's rule agreed tariff or packages only
+73,3,0.7333,package government regulation,1,Ensure to provided the bill as per government's rule agreed tariff or packages only
+73,4,0.7333,revised medical package government,1,Ensure to provided the bill as per government's rule agreed tariff or packages only
+73,5,0.7333,regulation,1,
+73,6,0.7333,government regulation,1,
+73,7,0.7333,medical package government regulation,1,Ensure to provided the bill as per government's rule agreed tariff or packages only
+73,8,0.7333,medical package government,1,Ensure to provided the bill as per government's rule agreed tariff or packages only
+73,9,0.733,package government,1,Ensure to provided the bill as per government's rule agreed tariff or packages only
+73,10,0.7325,revised medical package,1,Ensure to provided the bill as per government's rule agreed tariff or packages only
+73,11,0.732,medical package,1,Ensure to provided the bill as per government's rule agreed tariff or packages only
+73,12,0.6805,government,1,
+73,13,0.5366,regulation provide,1,
+73,14,0.5366,government regulation provide,1,
+73,15,0.5366,package government regulation provide,1,
+73,16,0.4543,remarks share revised,1,
+73,17,0.4061,share revised,1,
+73,18,0.3689,government regulation revise,1,
+73,19,0.3689,package government regulation revise,1,Ensure to provided the bill as per government's rule agreed tariff or packages only
+74,0,0.6814,icp attested,7,Ensure to provide all indoor papers
+74,1,0.6802,case paper icp attested,7,Ensure to provide all indoor papers
+74,2,0.6802,paper icp attested,7,Ensure to provide all indoor papers
+74,3,0.6686,icp attested copy,7,Ensure to provide all indoor papers
+74,4,0.6686,remarks indoor,7,Ensure to provide all indoor papers
+74,5,0.6686,remarks indoor case,7,Ensure to provide all indoor papers
+74,6,0.6686,remarks indoor case paper,7,Ensure to provide all indoor papers
+74,7,0.6673,paper icp attested copy,7,Ensure to provide all indoor papers
+74,8,0.6576,attested copy provide,7,
+74,9,0.6576,icp attested copy provide,7,Ensure to provide all indoor papers
+74,10,0.5237,processing remarks indoor,7,Ensure to provide all indoor papers
+74,11,0.5237,processing remarks indoor case,7,Ensure to provide all indoor papers
+74,12,0.508,indoor case paper icp,7,Ensure to provide all indoor papers
+74,13,0.508,case paper icp,7,Ensure to provide all indoor papers
+74,14,0.5073,paper icp,7,Ensure to provide all indoor papers
+74,15,0.4495,copy provide,7,
+74,16,0.4236,letter remarks indoor,7,Ensure to provide all indoor papers
+74,17,0.4236,letter remarks indoor case,7,Ensure to provide all indoor papers
+74,18,0.4227,assistfirst letter remarks indoor,7,Ensure to provide all indoor papers
+74,19,0.3891,copy provide indoor,7,Ensure to provide all indoor papers
+75,0,0.5934,break,1,
+75,1,0.5753,final break,1,Ensure to provide cashless final bill with detailed breakup
+75,2,0.5597,final breakup,1,Ensure to provide cashless final bill with detailed breakup
+75,3,0.5161,breakup remarks,1,Ensure to provide cashless final bill with detailed breakup
+75,4,0.5158,remarks provide final break,1,Ensure to provide cashless final bill with detailed breakup
+75,5,0.5051,remarks provide final,1,Ensure to provide cashless final bill with detailed breakup
+75,6,0.4962,remarks provide final breakup,1,Ensure to provide cashless final bill with detailed breakup
+75,7,0.484,provide final break,1,Ensure to provide cashless final bill with detailed breakup
+75,8,0.4773,provide final breakup,1,Ensure to provide cashless final bill with detailed breakup
+75,9,0.4719,break remarks,1,
+75,10,0.4717,provide revised final breakup,1,Ensure to provide cashless final bill with detailed breakup
+75,11,0.4716,revised final breakup,1,Ensure to provide cashless final bill with detailed breakup
+75,12,0.4611,breakup remarks provide,1,Ensure to provide cashless final bill with detailed breakup
+75,13,0.4466,final breakup remarks,1,Ensure to provide cashless final bill with detailed breakup
+75,14,0.4433,remarks provide revised final,1,Ensure to provide cashless final bill with detailed breakup
+75,15,0.4419,breakup remarks provide final,1,Ensure to provide cashless final bill with detailed breakup
+75,16,0.4174,remarks provide breakup,1,Ensure to provide cashless final bill with detailed breakup
+75,17,0.4145,break final,1,Ensure to provide cashless final bill with detailed breakup
+75,18,0.4066,breakup,1,
+75,19,0.4046,provide final breakup remarks,1,Ensure to provide cashless final bill with detailed breakup
+76,0,0.3752,ailment provide supportive investigation,8,Ensure to provide investigation reports to support diagnosis
+76,1,0.3752,ailment provide supportive,8,Ensure to provide investigation reports to support diagnosis
+76,2,0.3679,cause ailment provide supportive,8,Ensure to provide investigation reports to support diagnosis
+76,3,0.3379,remarks doctor certificate detailing,8,Doctor Letter with Aetiology
+76,4,0.3379,remarks doctor certificate,8,
+76,5,0.3377,remarks doctor,8,
+76,6,0.3323,report remarks doctor certificate,8,
+76,7,0.3319,report remarks doctor,8,
+76,8,0.3148,doctor certificate detailing etiology,8,Doctor Letter with Aetiology
+76,9,0.3057,doctor certificate detailing,8,Doctor Letter with Aetiology
+76,10,0.2921,ailment provide,8,
+76,11,0.2911,diagnosis remarks doctor,8,
+76,12,0.2911,diagnosis remarks doctor certificate,8,
+76,13,0.2911,cause ailment provide,8,Doctor Letter with Aetiology
+76,14,0.287,etiology cause ailment provide,8,Doctor Letter with Aetiology
+76,15,0.2761,cause ailment,8,Doctor Letter with Aetiology
+76,16,0.2745,certificate detailing etiology,8,Doctor Letter with Aetiology
+76,17,0.2745,detailing etiology,8,Doctor Letter with Aetiology
+76,18,0.274,certificate detailing etiology cause,8,Doctor Letter with Aetiology
+76,19,0.274,detailing etiology cause ailment,8,Doctor Letter with Aetiology
+77,0,0.3156,assistfirst letter provide attested,1,
+77,1,0.3125,letter provide attested copy,1,
+77,2,0.3125,letter provide attested,1,
+77,3,0.2136,assistfirst letter provide,1,
+77,4,0.2136,medi assistfirst letter provide,1,
+77,5,0.2107,letter provide,1,
+77,6,0.1996,remarks claim document couriered,1,
+77,7,0.1994,remarks claim document,1,
+77,8,0.1977,remarks claim,1,
+77,9,0.1893,tpr chart remarks claim,1,Ensure to provide TPR Chart
+77,10,0.1741,hospital medi assistfirst letter,1,
+77,11,0.1741,medi assistfirst letter,1,
+77,12,0.1741,assistfirst letter,1,
+77,13,0.1741,assistfirst,1,
+77,14,0.1741,hospital medi assistfirst,1,
+77,15,0.1741,medi assistfirst,1,
+77,16,0.1741,couriered hospital medi assistfirst,1,
+77,17,0.174,claim document couriered hospital,1,
+77,18,0.174,claim document couriered,1,
+77,19,0.1739,hospital medi,1,
+78,0,0.5028,room rent,2,
+78,1,0.4957,rent,2,
+78,2,0.4395,room,2,
+78,3,0.4201,room rent tariff,2,Ensure you have provided bill as per the agreed tariff or packages only
+78,4,0.4186,rent tariff,2,Ensure you have provided bill as per the agreed tariff or packages only
+78,5,0.3742,updated room rent,2,
+78,6,0.3731,sharing,2,
+78,7,0.3592,updated room,2,
+78,8,0.3469,twin sharing,2,Ensure you have provided bill as per the agreed tariff or packages only
+78,9,0.3423,twin,2,
+78,10,0.3262,schedule charge tariff enclose,2,Ensure you have provided bill as per the agreed tariff or packages only
+78,11,0.3261,charge tariff enclose,2,Ensure you have provided bill as per the agreed tariff or packages only
+78,12,0.3211,updated room rent tariff,2,Ensure you have provided bill as per the agreed tariff or packages only
+78,13,0.3133,tariff enclose,2,Ensure you have provided bill as per the agreed tariff or packages only
+78,14,0.3118,enclose updated room rent,2,Ensure you have provided bill as per the agreed tariff or packages only
+78,15,0.301,rent remarks provide revised,2,Ensure you have provided bill as per the agreed tariff or packages only
+78,16,0.2975,rent tariff remarks provide,2,Ensure you have provided bill as per the agreed tariff or packages only
+78,17,0.2968,enclose updated,2,
+78,18,0.296,room rent remarks provide,2,
+78,19,0.2947,charge tariff enclose updated,2,Ensure you have provided bill as per the agreed tariff or packages only
+79,0,0.3759,stay remarks provide attested,6,
+79,1,0.3118,stay remarks provide,6,
+79,2,0.2637,stay remarks,6,
+79,3,0.254,extended,6,
+79,4,0.2445,extended stay,6,Doctor Letter providing the reason for prolonged stay and co-morbidities
+79,5,0.228,extended stay remarks provide,6,Doctor Letter providing the reason for prolonged stay and co-morbidities
+79,6,0.2265,prolong stay remarks provide,6,Doctor Letter providing the reason for prolonged stay and co-morbidities
+79,7,0.2224,remarks provide attested copy,6,
+79,8,0.2224,remarks provide attested,6,
+79,9,0.2171,chart etcshare clarification regarding,6,
+79,10,0.2171,chart etcshare clarification,6,
+79,11,0.2171,etcshare clarification,6,
+79,12,0.2171,etcshare clarification regarding,6,
+79,13,0.2171,etcshare clarification regarding extended,6,
+79,14,0.2171,tpr chart etcshare clarification,6,Ensure to provide TPR Chart
+79,15,0.2142,stay,6,
+79,16,0.2129,prolong stay remarks,6,Doctor Letter providing the reason for prolonged stay and co-morbidities
+79,17,0.2122,dateshare clarification regarding,6,
+79,18,0.2122,dateshare clarification,6,
+79,19,0.2122,dateshare clarification regarding extended,6,Doctor Letter providing the reason for prolonged stay and co-morbidities
+80,0,0.658,remarks provide self,2,Ensure to provide a self-declaration of patient explaining about incident
+80,1,0.658,remarks provide self declartion,2,Ensure to provide a self-declaration of patient explaining about incident
+80,2,0.6374,provide self,2,Ensure to provide a self-declaration of patient explaining about incident
+80,3,0.6242,detailing incidence,2,Ensure to provide a self-declaration of patient explaining about incident
+80,4,0.6222,declartion,2,
+80,5,0.621,self declartion,2,Ensure to provide a self-declaration of patient explaining about incident
+80,6,0.6208,declartion form,2,Ensure to provide a self-declaration of patient explaining about incident
+80,7,0.6208,self declartion form detailing,2,Ensure to provide a self-declaration of patient explaining about incident
+80,8,0.6208,provide self declartion form,2,Ensure to provide a self-declaration of patient explaining about incident
+80,9,0.6208,declartion form detailing,2,Ensure to provide a self-declaration of patient explaining about incident
+80,10,0.6208,declartion form detailing incidence,2,Ensure to provide a self-declaration of patient explaining about incident
+80,11,0.6208,self declartion form,2,Ensure to provide a self-declaration of patient explaining about incident
+80,12,0.6203,form detailing,2,
+80,13,0.62,provide self declartion,2,Ensure to provide a self-declaration of patient explaining about incident
+80,14,0.6191,form detailing incidence,2,
+80,15,0.555,self,2,
+80,16,0.5185,incidence,2,
+80,17,0.4935,form detailing incidence provide,2,Ensure to provide a self-declaration of patient explaining about incident
+80,18,0.4929,detailing incidence provide,2,Ensure to provide a self-declaration of patient explaining about incident
+80,19,0.4889,incidence provide,2,
+81,0,0.6815,id dl,2,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+81,1,0.6798,dl passport,2,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+81,2,0.6798,id dl passport,2,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+81,3,0.6792,government id proof,2,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+81,4,0.6781,id proof like,2,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+81,5,0.6764,government id,2,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+81,6,0.6763,voter id dl passport,2,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+81,7,0.6763,government id proof like,2,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+81,8,0.6763,voter id dl,2,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+81,9,0.6757,proof like,2,
+81,10,0.6746,like voter id,2,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+81,11,0.6746,like voter,2,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+81,12,0.6746,proof like voter id,2,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+81,13,0.6746,proof like voter,2,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+81,14,0.6746,like voter id dl,2,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+81,15,0.6746,id proof like voter,2,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+81,16,0.6393,remarks government id proof,2,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+81,17,0.6393,remarks government id,2,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+81,18,0.6362,remarks government,2,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) "
+81,19,0.6135,like,2,
+82,0,0.5403,urine,1,Ensure to provide investigation reports to support diagnosis
+82,1,0.4104,blood report,1,Ensure to provide investigation reports to support diagnosis
+82,2,0.3782,provide urine,1,Ensure to provide investigation reports to support diagnosis
+82,3,0.3773,diagnosis urine,1,Ensure to provide investigation reports to support diagnosis
+82,4,0.3689,support diagnosis urine,1,Ensure to provide investigation reports to support diagnosis
+82,5,0.3667,provide blood,1,Ensure to provide investigation reports to support diagnosis
+82,6,0.3658,diagnosis provide blood,1,Ensure to provide investigation reports to support diagnosis
+82,7,0.3658,support diagnosis provide blood,1,Ensure to provide investigation reports to support diagnosis
+82,8,0.3627,record support diagnosis urine,1,Ensure to provide investigation reports to support diagnosis
+82,9,0.3591,support diagnosis provide urine,1,Ensure to provide investigation reports to support diagnosis
+82,10,0.3591,diagnosis provide urine,1,Ensure to provide investigation reports to support diagnosis
+82,11,0.3494,blood,1,Ensure to provide investigation reports to support diagnosis
+82,12,0.3193,culture,1,
+82,13,0.3161,urine report,1,Ensure to provide investigation reports to support diagnosis
+82,14,0.3128,report remarks provide supportive,1,Ensure to provide investigation reports to support diagnosis
+82,15,0.3102,urine routine,1,Ensure to provide investigation reports to support diagnosis
+82,16,0.3041,urine report remarks,1,Ensure to provide investigation reports to support diagnosis
+82,17,0.303,blood investigation,1,Ensure to provide investigation reports to support diagnosis
+82,18,0.2993,urine report remarks provide,1,Ensure to provide investigation reports to support diagnosis
+82,19,0.2986,support diagnosis blood report,1,Ensure to provide investigation reports to support diagnosis
+83,0,0.7164,recent photocopy,1,Ensure to provide Recent Photocopy of Patient ID Proofand filled in KYC Form
+83,1,0.7143,provide recent photocopy,1,Ensure to provide Recent Photocopy of Patient ID Proofand filled in KYC Form
+83,2,0.7047,photocopy,1,
+83,3,0.6541,provide recent,1,
+83,4,0.6245,photocopy patient,1,Ensure to provide Recent Photocopy of Patient ID Proofand filled in KYC Form
+83,5,0.6245,recent photocopy patient,1,Ensure to provide Recent Photocopy of Patient ID Proofand filled in KYC Form
+83,6,0.621,provide recent photocopy patient,1,Ensure to provide Recent Photocopy of Patient ID Proofand filled in KYC Form
+83,7,0.6078,ir provide recent,1,
+83,8,0.6078,ir provide recent photocopy,1,Ensure to provide Recent Photocopy of Patient ID Proofand filled in KYC Form
+83,9,0.604,provide complete filled,1,Ensure to provide Recent Photocopy of Patient ID Proofand filled in KYC Form
+83,10,0.6036,complete filled ckyc form,1,Ensure to provide Recent Photocopy of Patient ID Proofand filled in KYC Form
+83,11,0.6036,complete filled ckyc,1,Ensure to provide Recent Photocopy of Patient ID Proofand filled in KYC Form
+83,12,0.6036,provide complete filled ckyc,1,Ensure to provide Recent Photocopy of Patient ID Proofand filled in KYC Form
+83,13,0.601,complete filled,1,
+83,14,0.5992,xerox copy,1,
+83,15,0.5975,xerox,1,
+83,16,0.5957,ir provide,1,
+83,17,0.5929,ir provide complete,1,
+83,18,0.5871,ir,1,
+83,19,0.5691,ir provide complete filled,1,

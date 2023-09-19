@@ -1,0 +1,79 @@
+Action ID,Action
+0,ensure to provide tpr chart
+1,ensure to provide all indoor papers
+2,ensure to provide treatment or medication or drug chart
+3,ensure to provide investigation reports to support diagnosis
+4,ensure to provide detailed ot notes with anesthesia notes
+5,ensure to provide nurse notes
+6,ensure to provide admission notes
+7,ensure you have provided bill as per the agreed tariff or packages only
+8,"detailed discharge summary with the reason for hospitalization, significant findings, procedure done, treatment given"
+9,ensure to provide the final bill.
+10,ensure to provide details on the history of alcohol consumption preferrably on clinical notes
+11,"ensure to provide the patient's id proof with the address (driving licence, voter id, passport, aadhar) "
+12,ensure to provide anaesthesia notes along with ot notes
+13,ensure to provide final bill with detailed breakup
+14,ensure doa and dod on all documents are same
+15,ensure to provide cashless final bill with detailed breakup
+16,ensure to provide a self-declaration of patient explaining about incident
+17,doctor certificate with personal history
+18,ensure to provide doctor certificate detailing aetiology
+19,ensure to provide bill as per the agreed tariff or packages only
+20,ensure to provide a case summary on doctor's letter
+21,ensure to provide admission certificate
+22,ensure to provide hospital referral letter
+23,kindly provide all previous consultation papers of patient
+24,"kindly attach patient paid deposit receipt clarifying amount paid towards patient's payable (nme, co-pay etc.)"
+25,ensure to provide previous consultation papers
+26,ensure you have uploaded all the supportive investigation reports
+27,ensure to provide detailed bills with proper pre-numbering
+28,doctor letter providing the reason for prolonged stay
+29,ensure to attach nurse notes
+30,ensure to provide beneficiary feed back form
+31,doctor letter providing the reason for prolonged stay with case summary and  co morbidities
+32,doctor letter providing the reason for prolonged stay and co-morbidities
+33,"doctor letter providing the reason for prolonged stay, and case summary"
+34,ensure to provide a cashless final bill with a detailed breakup with all the pages attached
+35,ensure to provide previous pre auth approval document
+36,doctor certificate with aetiology and personal history
+37,doctor letter with aetiology
+38,ensure to provided the bill as per government's rule agreed tariff or packages only
+39,doctor certificate with personal history and aetiology
+40,ensure to provide admission consultation papers
+41,ensure to provide document check list for couriered documents in hospital letter
+42,doctor letter with history and indications
+43,ensure to provide history and the duration of ailment
+44,ensure to provide reason for late submission of documents if there is any delay
+45,ensure to provide interim bill
+46,doctor letter with duration of ailment and aetiology
+47,ensure to provide patient id proof for patient
+48,ensure to provide final bills with insurer's name and payer's name mentioned
+49,ensure to provide admission notes with line of treatment and anaesthesia
+50,ensure to provide doctor certification with indication for surgery
+51,ensure to provide admission notes with advised line of treatment and planned type of anaesthesia
+52,ensure to provide mlc report for applicable case
+53,ensure to bill as per tariff and not overcharge on any bill item or provide clarification for overcharged items.
+54,ensure to provide policy holder's pan card
+55,ensure you have attached the cashless claim form
+56,ensure to provide x-ray post surgery
+57,ensure to provide the duration of ailment
+58,ensure to provide opd consultation paper with advice for investigations and or treatment and duration of ailment
+59,ensure you have provided bill as per the agreed packages only
+60,"doctor letter with detailed history, significant findings and line of treatment"
+61,ensure the doa and dod on all documents are the same. preferably with time of admission and discharge
+62,ensure to attach admission notes
+63,ensure to attach enhancement letter
+64,ensure to provide the patient's id proof with address
+65,ensure to provide claim form
+66,ensure to provide dialysis chart
+67,provide reason for admission
+68,ensure to attach gipsa certificate
+69,ensure to attach death certificate in case of death claim
+70,ensure to provide cost estimates of conventional treatment
+71,"ensure to provide alcohol test reports (this is necessary in case of rta, mlc cases)"
+72,ensure to provide fir for mlc case
+73,ensure you have ensure to provided the bill as per the agreed tariff or packages only or ensure to provide clarification of any discrepancy
+74,ensure to provide patient id proof
+75,ensure to provide stickers for implants done if any
+76,kindly provide invoice for chemotherapy drug
+77,ensure to provide recent photocopy of patient id proofand filled in kyc form

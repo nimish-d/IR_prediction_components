@@ -1,0 +1,263 @@
+Topic,Asked info or doc,Asked info or doc - Category
+-1,Ensure you have provided bill as per the agreed packages only,Bill
+-1,Ensure to provide history and the duration of Ailment,Letter from Doctor or Hospital (Information)
+-1,Kindly Provide first consultation papers of patient,Previous Consultation Papers
+-1,Ensure to attach Admission Notes,Admission Notes
+-1,Ensure to provide all indoor papers,Indoor Papers
+-1,Ensure to attach Nurse Notes,Nurse Notes
+-1,Ensure to provide TPR Chart,TPR Charts
+-1,Ensure to provide Treatment or Medication or Drug chart,Treatment Chart
+-1,Ensure to provide Detailed OT Notes with Anesthesia Notes,OT Notes
+-1,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) ",KYC - Id Proof (Patient)
+-1,Provide latest passport photo of Patient,Patient Photgraph
+0,Ensure you have uploaded all the supportive Investigation Reports,Investigations
+1,"Detailed discharge summary with the reason for hospitalization, significant findings, procedure done, treatment given",Discharge Summary
+2,Ensure you have attached the Cashless Claim Form,Claim Forms
+2,Ensure to provide cashless final bill with detailed breakup,Bill
+2,Ensure you have uploaded all the supportive Investigation Reports,Investigations
+2,"Detailed discharge summary with the reason for hospitalization, significant findings, procedure done, treatment given",Discharge Summary
+2,Ensure DOA and DOD on all documents are same,DOA DOD mismatched
+3,Ensure to provide X-ray post surgery,Post Procedure investigations
+3,"Detailed discharge summary with the reason for hospitalization, significant findings, procedure done, treatment given",Discharge Summary
+3,Ensure to provide Detailed OT Notes with Anesthesia Notes,OT Notes
+3,Ensure to provide Beneficiary Feed back form,Beneficiary Feedback Form
+4,Ensure to provide the duration of Ailment,Letter from Doctor or Hospital (Information)
+4,Ensure to provide OPD consultation paper with advice for investigations and or treatment and duration of ailment,OPD Consultation
+5,Ensure you have provided bill as per the agreed packages only,Bill
+6,Ensure to provide final bill with detailed breakup,Bill
+6,"Detailed discharge summary with the reason for hospitalization, significant findings, procedure done, treatment given",Discharge Summary
+7,Ensure to provide investigation reports to support diagnosis,Investigations
+7,Ensure to provide all indoor papers,Indoor Papers
+7,Ensure to provide Nurse Notes,Nurse Notes
+7,Ensure to provide TPR Chart,TPR Charts
+7,Ensure to provide Treatment or Medication or Drug chart,Treatment Chart
+8,Ensure you have provided bill as per the agreed tariff or packages only,Bill
+9,"Doctor Letter with detailed history, significant findings and line of treatment",Letter from Doctor or Hospital (Information)
+10,Ensure the DOA and DOD on all documents are the same. Preferably with time of admission and discharge,DOA DOD mismatched
+11,Ensure to attach Admission Notes,Admission Notes
+11,Ensure to provide all indoor papers,Indoor Papers
+11,Ensure to attach Nurse Notes,Nurse Notes
+11,Ensure to provide TPR Chart,TPR Charts
+11,Ensure to provide Treatment or Medication or Drug chart,Treatment Chart
+11,Ensure to provide Detailed OT Notes with Anesthesia Notes,OT Notes
+12,Ensure to attach Enhancement Letter,Claim Forms
+12,Doctor Letter providing the reason for prolonged stay,Letter from Doctor or Hospital (Information)
+12,Ensure to provide all indoor papers,Indoor Papers
+12,Ensure to attach Nurse Notes,Nurse Notes
+12,Ensure to provide TPR Chart,TPR Charts
+12,Ensure to provide Treatment or Medication or Drug chart,Treatment Chart
+12,Ensure to provide Detailed OT Notes with Anesthesia Notes,OT Notes
+13,Ensure you have provided bill as per the agreed tariff or packages only,Bill
+13,Ensure to provide investigation reports to support diagnosis,Investigations
+14,Ensure you have provided bill as per the agreed tariff or packages only,Bill
+15,Ensure to provide final bill with detailed breakup,Bill
+16,Ensure to provide the Final Bill.,Bill
+16,Ensure to provide investigation reports to support diagnosis,Investigations
+16,"Detailed discharge summary with the reason for hospitalization, significant findings, procedure done, treatment given",Discharge Summary
+17,Ensure to provide the patient's ID Proof with address,KYC - Id Proof (Patient)
+17,Ensure to provide Policy holder's PAN card,PAN for more than 1 lakh (Policy Holder)
+18,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) ",KYC - Id Proof (Patient)
+19,Ensure you have provided bill as per the agreed tariff or packages only,Bill
+19,"Detailed discharge summary with the reason for hospitalization, significant findings, procedure done, treatment given",Discharge Summary
+20,Ensure to provide claim form,Claim Forms
+20,Ensure to provide investigation reports to support diagnosis,Investigations
+20,Provide reason for admission,Letter from Doctor or Hospital (Information)
+20,Kindly Provide all previous consultation papers of patient,Previous Consultation Papers
+20,Ensure to provide Admission Notes,Admission Notes
+20,Ensure to provide all indoor papers,Indoor Papers
+20,Ensure to provide Nurse Notes,Nurse Notes
+20,Ensure to provide TPR Chart,TPR Charts
+20,Ensure to provide Treatment or Medication or Drug chart,Treatment Chart
+20,Ensure to attach Gipsa Certificate,Gipsa Certificate
+21,Ensure to provide Final Bill with detailed breakup,Bill
+21,"Detailed discharge summary with the reason for hospitalization, significant findings, procedure done, treatment given",Discharge Summary
+22,Ensure to provide investigation reports to support diagnosis,Investigations
+22,Ensure to provide Admission Notes,Admission Notes
+22,Ensure to provide all indoor papers,Indoor Papers
+22,Ensure to provide TPR Chart,TPR Charts
+22,Ensure to provide Detailed OT Notes with Anesthesia Notes,OT Notes
+23,Ensure to provide investigation reports to support diagnosis,Investigations
+23,Ensure to provide Hospital referral Letter,Hospital Referral Letters
+23,Ensure to provide Admission Certificate,Admission Certificate
+23,Ensure to provide Beneficiary Feed back form,Beneficiary Feedback Form
+23,Ensure to provide details on the history of Alcohol Consumption preferrably on clinical notes,H/o Alcohol Consumptions (information)
+24,Ensure to attach death certificate in case of Death Claim,Death Certificate
+24,Ensure DOA and DOD on all documents are same,DOA DOD mismatched
+25,Ensure to provide Cost estimates of Conventional Treatment,Bill
+26,Ensure to provide investigation reports to support diagnosis,Investigations
+26,Ensure to provide details on the history of Alcohol Consumption preferrably on clinical notes,H/o Alcohol Consumptions (information)
+26,"Ensure to provide Alcohol Test reports (this is necessary in case of RTA, MLC cases)",Alcohol Test
+26,Ensure to provide MLC report for applicable case,MLC
+26,Ensure to provide FIR for MLC case,FIR
+26,Ensure to provide a self-declaration of patient explaining about incident,Self Declaration
+27,Ensure you have Ensure to provided the bill as per the agreed tariff or packages only or Ensure to provide clarification of any discrepancy,Bill
+28,Ensure to provide Doctor Certificate detailing aetiology,Letter from Doctor or Hospital (Information)
+29,Ensure to provide bill as per the agreed tariff or packages only,Bill
+30,Ensure to provide a Case Summary on doctor's letter,Letter from Doctor or Hospital (Information)
+30,Ensure to provide Patient ID Proof,KYC - Id Proof (Patient)
+31,Ensure to provide Stickers for Implants done if any,Implant Stickers
+31,Kindly provide invoice for Chemotherapy Drug,Invoice for Chemo Therapy Agents
+32,Ensure to provide the Final Bill.,Bill
+32,Ensure to provide Dialysis Chart,Dialysis Chart
+33,Ensure to bill as per tariff and not overcharge on any bill item or provide clarification for overcharged items.,Bill
+34,Ensure to provide Treatment or Medication or Drug chart,Treatment Chart
+35,Ensure to provide Detailed OT Notes with Anesthesia Notes,OT Notes
+35,Ensure to provide Anaesthesia Notes along with OT Notes,Anaesthesia Notes
+36,Ensure to provide bill as per the agreed tariff or packages only,Bill
+36,Ensure to provide Detailed OT Notes with Anesthesia Notes,OT Notes
+36,Ensure to provide Anaesthesia Notes along with OT Notes,Anaesthesia Notes
+37,Ensure to provide detailed bills with proper pre-numbering,Bill
+38,"Kindly attach Patient paid deposit receipt clarifying amount paid towards patient's payable (NME, Co-pay etc.)",Patient Receipt
+39,Ensure to provide Doctor Certificate detailing aetiology,Letter from Doctor or Hospital (Information)
+39,Ensure to provide Admission Notes,Admission Notes
+39,Ensure to provide all indoor papers,Indoor Papers
+39,Ensure to provide TPR Chart,TPR Charts
+39,Ensure to provide Treatment or Medication or Drug chart,Treatment Chart
+39,Ensure to provide Detailed OT Notes with Anesthesia Notes,OT Notes
+40,Ensure to provide investigation reports to support diagnosis,Investigations
+40,Ensure to provide TPR Chart,TPR Charts
+41,"Doctor Letter providing the reason for prolonged stay, and case summary",Letter from Doctor or Hospital (Information)
+42,Ensure to provide detailed bills with proper pre-numbering,Bill
+43,Ensure to provide investigation reports to support diagnosis,Investigations
+43,Ensure to provide Admission Notes,Admission Notes
+43,Ensure to provide all indoor papers,Indoor Papers
+43,Ensure to provide Nurse Notes,Nurse Notes
+43,Ensure to provide TPR Chart,TPR Charts
+43,Ensure to provide Detailed OT Notes with Anesthesia Notes,OT Notes
+44,Ensure you have provided bill as per the agreed tariff or packages only,Bill
+45,Ensure to provide a cashless final bill with a detailed breakup with all the pages attached,Bill
+46,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) ",KYC - Id Proof (Patient)
+47,Ensure to provide Previous Pre Auth Approval Document,Claim Forms
+48,Doctor certificate with aetiology and personal history,Letter from Doctor or Hospital (Information)
+48,Ensure to provide details on the history of Alcohol Consumption preferrably on clinical notes,H/o Alcohol Consumptions (information)
+49,Ensure you have provided bill as per the agreed tariff or packages only,Bill
+49,Ensure to provide investigation reports to support diagnosis,Investigations
+50,Ensure to provide cashless final bill with detailed breakup,Bill
+51,Doctor Certificate with Personal History,Letter from Doctor or Hospital (Information)
+52,Doctor Certificate with Personal History,Letter from Doctor or Hospital (Information)
+52,Ensure to provide Admission Notes,Admission Notes
+52,Ensure to provide all indoor papers,Indoor Papers
+52,Ensure to provide Nurse Notes,Nurse Notes
+52,Ensure to provide TPR Chart,TPR Charts
+52,Ensure to provide Treatment or Medication or Drug chart,Treatment Chart
+52,Ensure to provide Detailed OT Notes with Anesthesia Notes,OT Notes
+52,Ensure to provide Anaesthesia Notes along with OT Notes,Anaesthesia Notes
+53,Ensure you have provided bill as per the agreed tariff or packages only,Bill
+53,Ensure to provide Admission Notes,Admission Notes
+53,Ensure to provide all indoor papers,Indoor Papers
+53,Ensure to provide Nurse Notes,Nurse Notes
+53,Ensure to provide TPR Chart,TPR Charts
+53,Ensure to provide Treatment or Medication or Drug chart,Treatment Chart
+53,Ensure to provide Detailed OT Notes with Anesthesia Notes,OT Notes
+54,Ensure to provide Document Check list for couriered documents in hospital letter,List of Documents
+54,Ensure to provide investigation reports to support diagnosis,Investigations
+54,Ensure to provide history and the duration of Ailment,Letter from Doctor or Hospital (Information)
+54,Kindly Provide all previous consultation papers of patient,Previous Consultation Papers
+54,Ensure to provide all indoor papers,Indoor Papers
+54,Ensure to provide TPR Chart,TPR Charts
+54,Ensure to provide Treatment or Medication or Drug chart,Treatment Chart
+55,Ensure to provide reason for late submission of documents if there is any delay,Letter from Doctor or Hospital (Information)
+56,Ensure to provide Interim Bill,Bill
+56,Ensure to provide Admission Notes,Admission Notes
+56,Ensure to provide all indoor papers,Indoor Papers
+56,Ensure to provide Nurse Notes,Nurse Notes
+56,Ensure to provide TPR Chart,TPR Charts
+56,Ensure to provide Treatment or Medication or Drug chart,Treatment Chart
+56,Ensure to provide Detailed OT Notes with Anesthesia Notes,OT Notes
+57,Ensure to provide a Case Summary on doctor's letter,Letter from Doctor or Hospital (Information)
+57,Ensure to provide Admission Notes,Admission Notes
+57,Ensure to provide all indoor papers,Indoor Papers
+57,Ensure to provide Nurse Notes,Nurse Notes
+57,Ensure to provide TPR Chart,TPR Charts
+57,Ensure to provide Treatment or Medication or Drug chart,Treatment Chart
+57,Ensure to provide Detailed OT Notes with Anesthesia Notes,OT Notes
+58,Ensure DOA and DOD on all documents are same,DOA DOD mismatched
+59,Ensure to provide Admission Notes,Admission Notes
+59,Ensure to provide all indoor papers,Indoor Papers
+59,Ensure to provide Nurse Notes,Nurse Notes
+59,Ensure to provide TPR Chart,TPR Charts
+59,Ensure to provide Treatment or Medication or Drug chart,Treatment Chart
+59,Ensure to provide Detailed OT Notes with Anesthesia Notes,OT Notes
+60,Ensure to provide final bills with insurer's name and payer's name mentioned,Bill
+61,Ensure to provide Doctor Certification with indication for surgery,Letter from Doctor or Hospital (Information)
+61,Ensure to provide Previous Consultation Papers,Previous Consultation Papers
+62,Ensure to provide investigation reports to support diagnosis,Investigations
+62,Ensure to provide Admission notes with advised line of treatment and planned type of anaesthesia,Admission Notes
+63,Ensure to provide investigation reports to support diagnosis,Investigations
+63,Doctor letter with history and indications,Letter from Doctor or Hospital (Information)
+63,Ensure to provide Admission notes with line of treatment and Anaesthesia,Admission Notes
+63,Ensure to provide all indoor papers,Indoor Papers
+63,Ensure to provide Nurse Notes,Nurse Notes
+63,Ensure to provide TPR Chart,TPR Charts
+63,Ensure to provide Treatment or Medication or Drug chart,Treatment Chart
+63,Ensure to provide Patient ID Proof for patient,KYC - Id Proof (Patient)
+64,Ensure you have provided bill as per the agreed tariff or packages only,Bill
+64,Ensure to provide Admission Notes,Admission Notes
+64,Ensure to provide all indoor papers,Indoor Papers
+64,Ensure to provide Nurse Notes,Nurse Notes
+64,Ensure to provide TPR Chart,TPR Charts
+64,Ensure to provide Treatment or Medication or Drug chart,Treatment Chart
+65,Ensure to provide the Final Bill.,Bill
+65,"Detailed discharge summary with the reason for hospitalization, significant findings, procedure done, treatment given",Discharge Summary
+65,Ensure to provide Admission Certificate,Admission Certificate
+65,Ensure to provide Hospital referral Letter,Hospital Referral Letters
+66,Ensure to provide investigation reports to support diagnosis,Investigations
+67,Ensure to provide investigation reports to support diagnosis,Investigations
+67,Doctor Letter providing the reason for prolonged stay,Letter from Doctor or Hospital (Information)
+68,Ensure to provide investigation reports to support diagnosis,Investigations
+68,Ensure to provide all indoor papers,Indoor Papers
+68,Ensure to provide Nurse Notes,Nurse Notes
+68,Ensure to provide TPR Chart,TPR Charts
+68,Ensure to provide Treatment or Medication or Drug chart,Treatment Chart
+69,Ensure to provide investigation reports to support diagnosis,Investigations
+69,Doctor Letter with duration of Ailment and Aetiology,Letter from Doctor or Hospital (Information)
+69,Ensure to provide Admission Consultation papers,Admission Notes
+70,Doctor Letter providing the reason for prolonged stay with case summary and  co morbidities,Letter from Doctor or Hospital (Information)
+70,Ensure to provide Admission Notes,Admission Notes
+70,Ensure to provide all indoor papers,Indoor Papers
+70,Ensure to provide Nurse Notes,Nurse Notes
+70,Ensure to provide TPR Chart,TPR Charts
+70,Ensure to provide Treatment or Medication or Drug chart,Treatment Chart
+70,Ensure to provide Detailed OT Notes with Anesthesia Notes,OT Notes
+71,Ensure to provide Admission Notes,Admission Notes
+71,Ensure to provide all indoor papers,Indoor Papers
+71,Ensure to provide Nurse Notes,Nurse Notes
+71,Ensure to provide TPR Chart,TPR Charts
+71,Ensure to provide Treatment or Medication or Drug chart,Treatment Chart
+71,Ensure to provide Detailed OT Notes with Anesthesia Notes,OT Notes
+72,Doctor Certificate with Personal History and Aetiology,Letter from Doctor or Hospital (Information)
+72,Ensure to provide Admission Notes,Admission Notes
+72,Ensure to provide all indoor papers,Indoor Papers
+72,Ensure to provide Nurse Notes,Nurse Notes
+72,Ensure to provide TPR Chart,TPR Charts
+72,Ensure to provide Treatment or Medication or Drug chart,Treatment Chart
+72,Ensure to provide Detailed OT Notes with Anesthesia Notes,OT Notes
+73,Ensure to provided the bill as per government's rule agreed tariff or packages only,Bill
+74,Ensure to provide Admission Notes,Admission Notes
+74,Ensure to provide all indoor papers,Indoor Papers
+74,Ensure to provide Nurse Notes,Nurse Notes
+74,Ensure to provide TPR Chart,TPR Charts
+74,Ensure to provide Treatment or Medication or Drug chart,Treatment Chart
+74,"Kindly attach Patient paid deposit receipt clarifying amount paid towards patient's payable (NME, Co-pay etc.)",Patient Receipt
+75,Ensure to provide cashless final bill with detailed breakup,Bill
+76,Ensure to provide investigation reports to support diagnosis,Investigations
+76,Doctor Letter with Aetiology,Letter from Doctor or Hospital (Information)
+77,Ensure to provide investigation reports to support diagnosis,Investigations
+77,Ensure to provide Previous Consultation Papers,Previous Consultation Papers
+77,Ensure to provide Admission Notes,Admission Notes
+77,Ensure to provide all indoor papers,Indoor Papers
+77,Ensure to provide Nurse Notes,Nurse Notes
+77,Ensure to provide TPR Chart,TPR Charts
+77,Ensure to provide Treatment or Medication or Drug chart,Treatment Chart
+77,Ensure to provide Detailed OT Notes with Anesthesia Notes,OT Notes
+78,Ensure you have provided bill as per the agreed tariff or packages only,Bill
+79,Doctor Letter providing the reason for prolonged stay and co-morbidities,Letter from Doctor or Hospital (Information)
+79,Ensure to provide Admission Notes,Admission Notes
+79,Ensure to provide all indoor papers,Indoor Papers
+79,Ensure to provide Nurse Notes,Nurse Notes
+79,Ensure to provide TPR Chart,TPR Charts
+79,Ensure to provide Treatment or Medication or Drug chart,Treatment Chart
+80,Ensure to provide a self-declaration of patient explaining about incident,Self Declaration
+81,"Ensure to provide the patient's ID Proof with the address (Driving Licence, Voter ID, Passport, Aadhar) ",KYC - Id Proof (Patient)
+82,Ensure to provide investigation reports to support diagnosis,Investigations
+83,Ensure to provide Recent Photocopy of Patient ID Proofand filled in KYC Form,KYC - Id Proof (Patient)
